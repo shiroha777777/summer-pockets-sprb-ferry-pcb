@@ -1,83 +1,98 @@
-# Shiroha Naruse · Setouchi Ferry Ticket PCB
+# Summer Pockets · Birthday Ferry Tickets
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-[![Game artwork · black-and-white and black-and-gold PCB, full-size view](images/pcb/game.png)](images/pcb/game.png)
+Five heroines, four illustrations per heroine and two finishes per illustration give 40 double-sided boards. The front, ticket header and stub carry the four-digit MMDD birthday serial. The back postmark shows the month and day.
 
-**Game artwork** · Left: a black-and-white character with gold accents. Right: a black-and-gold character. Click any image to view it at full size.
+| Character | Birthday / ticket | Route and vessel | 8 Gerber sets |
+| --- | --- | --- | --- |
+| 鳴瀬しろは | [06.08](<https://key.visualarts.gr.jp/archives/6880>) / `0608` | 高松 → 直島・宮浦 · あさひ | [ZIP](https://raw.githubusercontent.com/shiroha777777/shiroha-ferry-pcb/refs/heads/summer-pockets-birthday-tickets/birthday-tickets/shiroha/shiroha-0608-8-gerbers.zip) |
+| 空門 蒼 | [09.20](<https://prtimes.jp/main/html/rd/p/000000060.000147227.html>) / `0920` | 高松 → 直島・宮浦 · あさひ | [ZIP](https://raw.githubusercontent.com/shiroha777777/shiroha-ferry-pcb/refs/heads/summer-pockets-birthday-tickets/birthday-tickets/ao/ao-0920-8-gerbers.zip) |
+| 久島 鴎 | [04.04](<https://key.visualarts.gr.jp/archives/7444>) / `0404` | 高松 → 直島・宮浦 · あさひ | [ZIP](https://raw.githubusercontent.com/shiroha777777/shiroha-ferry-pcb/refs/heads/summer-pockets-birthday-tickets/birthday-tickets/kamome/kamome-0404-8-gerbers.zip) |
+| 紬 ヴェンダース | [08.31](<https://summerpockets-anime.jp/>) / `0831` | 高松 → 直島・宮浦 · あさひ | [ZIP](https://raw.githubusercontent.com/shiroha777777/shiroha-ferry-pcb/refs/heads/summer-pockets-birthday-tickets/birthday-tickets/tsumugi/tsumugi-0831-8-gerbers.zip) |
+| 神山 識 | [07.04](<https://key.visualarts.gr.jp/archives/6926>) / `0704` | 高松 → 女木島 · めおん | [ZIP](https://raw.githubusercontent.com/shiroha777777/shiroha-ferry-pcb/refs/heads/summer-pockets-birthday-tickets/birthday-tickets/shiki/shiki-0704-8-gerbers.zip) |
 
-[Black-and-white project](boards/game/game.epro2) · [Black-and-white Gerber](boards/game/gerber.zip) · [Black-and-gold project](boards-character-gold/game/game.epro2) · [Black-and-gold Gerber](boards-character-gold/game/gerber.zip)
+Extract a character bundle and upload the individual Gerber ZIP for the chosen board. Specify two-layer FR-4, 1.6 mm, 1 oz copper, black solder mask, white silkscreen and ENIG. Open the editable projects in EasyEDA Pro.
 
-The current manufacturing version is **v1.3.4**. This public repository contains the current version; earlier versions are kept in private archives. Seven designs each have black-and-white and black-and-gold variants, for a total of fourteen double-sided PCBs. All board views below are rendered from their corresponding manufacturing layers.
+Designs 01–04 run left to right. Black-and-white is on the top row and black-and-gold on the bottom row.
 
-[All manufacturing files](https://github.com/shiroha777777/shiroha-ferry-pcb/releases/download/v1.3.4/Shiroha-14-Gerbers.zip) · [Black-and-white project bundle](https://github.com/shiroha777777/shiroha-ferry-pcb/releases/download/v1.3.4/Shiroha-Black-White-Accessories-7.zip) · [Black-and-gold project bundle](https://github.com/shiroha777777/shiroha-ferry-pcb/releases/download/v1.3.4/Shiroha-Character-Black-Gold-7.zip) · [1200 dpi front and back PNGs](https://github.com/shiroha777777/shiroha-ferry-pcb/releases/download/v1.3.4/Shiroha-1200dpi-PNG.zip)
+## 鳴瀬しろは
 
-v1.3.4 repairs the hand holding a lock of hair in the game design and adjusts the fingertips, finger separation and palm outline in the blue-sky design using the original artwork. In the golden-fan design, the fan and headdress use ENIG gold, while the flower on the fan remains white silkscreen. Both color variants, their project files, Gerbers and images below are synchronized within the existing v1.3.4 tag. The approximately 0.32 mm board-edge clearance is retained. [Manufacturing notes (Chinese)](FABRICATION.md) · [Revision verification](art-revision-review.json) · [Game hand verification](hand-repair-review.json)
+[![鳴瀬しろは · 01–04](birthday-tickets/shiroha/gallery.png)](birthday-tickets/shiroha/gallery.png)
 
-## Back of the board
+[![鳴瀬しろは · Back](birthday-tickets/shiroha/back.png)](birthday-tickets/shiroha/back.png)
 
-[![Ferry-ticket back shared by all seven designs](images/pcb/back.png)](images/pcb/back.png)
+| Design | Black and white | Black and gold |
+| --- | --- | --- |
+| 01 · Sea Breeze | [Project](birthday-tickets/shiroha/01/black-white/shiroha-0608-01-black-white.epro2) · [Gerber](birthday-tickets/shiroha/01/black-white/shiroha-0608-01-black-white-gerber.zip) | [Project](birthday-tickets/shiroha/01/black-gold/shiroha-0608-01-black-gold.epro2) · [Gerber](birthday-tickets/shiroha/01/black-gold/shiroha-0608-01-black-gold-gerber.zip) |
+| 02 · Fishing | [Project](birthday-tickets/shiroha/02/black-white/shiroha-0608-02-black-white.epro2) · [Gerber](birthday-tickets/shiroha/02/black-white/shiroha-0608-02-black-white-gerber.zip) | [Project](birthday-tickets/shiroha/02/black-gold/shiroha-0608-02-black-gold.epro2) · [Gerber](birthday-tickets/shiroha/02/black-gold/shiroha-0608-02-black-gold-gerber.zip) |
+| 03 · Forest Stream | [Project](birthday-tickets/shiroha/03/black-white/shiroha-0608-03-black-white.epro2) · [Gerber](birthday-tickets/shiroha/03/black-white/shiroha-0608-03-black-white-gerber.zip) | [Project](birthday-tickets/shiroha/03/black-gold/shiroha-0608-03-black-gold.epro2) · [Gerber](birthday-tickets/shiroha/03/black-gold/shiroha-0608-03-black-gold-gerber.zip) |
+| 04 · Underwater | [Project](birthday-tickets/shiroha/04/black-white/shiroha-0608-04-black-white.epro2) · [Gerber](birthday-tickets/shiroha/04/black-white/shiroha-0608-04-black-white-gerber.zip) | [Project](birthday-tickets/shiroha/04/black-gold/shiroha-0608-04-black-gold.epro2) · [Gerber](birthday-tickets/shiroha/04/black-gold/shiroha-0608-04-black-gold-gerber.zip) |
 
-All seven designs in both color variants share this back: Takamatsu → Naoshima, Miyanoura; vessel name “あさひ” (Asahi); date June 8 (06.08). This image is rendered from the actual back-side Gerber. Click to enlarge.
+## 空門 蒼
 
-## Other designs
+[![空門 蒼 · 01–04](birthday-tickets/ao/gallery.png)](birthday-tickets/ao/gallery.png)
 
-Each image shows the black-and-white variant on the left and the black-and-gold variant on the right.
+[![空門 蒼 · Back](birthday-tickets/ao/back.png)](birthday-tickets/ao/back.png)
 
-### Blue sky
+| Design | Black and white | Black and gold |
+| --- | --- | --- |
+| 01 · Island Summer | [Project](birthday-tickets/ao/01/black-white/ao-0920-01-black-white.epro2) · [Gerber](birthday-tickets/ao/01/black-white/ao-0920-01-black-white-gerber.zip) | [Project](birthday-tickets/ao/01/black-gold/ao-0920-01-black-gold.epro2) · [Gerber](birthday-tickets/ao/01/black-gold/ao-0920-01-black-gold-gerber.zip) |
+| 02 · Apple Peel | [Project](birthday-tickets/ao/02/black-white/ao-0920-02-black-white.epro2) · [Gerber](birthday-tickets/ao/02/black-white/ao-0920-02-black-white-gerber.zip) | [Project](birthday-tickets/ao/02/black-gold/ao-0920-02-black-gold.epro2) · [Gerber](birthday-tickets/ao/02/black-gold/ao-0920-02-black-gold-gerber.zip) |
+| 03 · Night Forest | [Project](birthday-tickets/ao/03/black-white/ao-0920-03-black-white.epro2) · [Gerber](birthday-tickets/ao/03/black-white/ao-0920-03-black-white-gerber.zip) | [Project](birthday-tickets/ao/03/black-gold/ao-0920-03-black-gold.epro2) · [Gerber](birthday-tickets/ao/03/black-gold/ao-0920-03-black-gold-gerber.zip) |
+| 04 · Summer Uniform | [Project](birthday-tickets/ao/04/black-white/ao-0920-04-black-white.epro2) · [Gerber](birthday-tickets/ao/04/black-white/ao-0920-04-black-white-gerber.zip) | [Project](birthday-tickets/ao/04/black-gold/ao-0920-04-black-gold.epro2) · [Gerber](birthday-tickets/ao/04/black-gold/ao-0920-04-black-gold-gerber.zip) |
 
-[![Blue sky · black-and-white and black-and-gold PCB](images/pcb/blue-sky.png)](images/pcb/blue-sky.png)
+## 久島 鴎
 
-[Black-and-white project](boards/blue-sky/blue-sky.epro2) · [Black-and-white Gerber](boards/blue-sky/gerber.zip) · [Black-and-gold project](boards-character-gold/blue-sky/blue-sky.epro2) · [Black-and-gold Gerber](boards-character-gold/blue-sky/gerber.zip)
+[![久島 鴎 · 01–04](birthday-tickets/kamome/gallery.png)](birthday-tickets/kamome/gallery.png)
 
-### Golden fan
+[![久島 鴎 · Back](birthday-tickets/kamome/back.png)](birthday-tickets/kamome/back.png)
 
-[![Golden fan · black-and-white and black-and-gold PCB](images/pcb/golden-fan.png)](images/pcb/golden-fan.png)
+| Design | Black and white | Black and gold |
+| --- | --- | --- |
+| 01 · Summer Dress | [Project](birthday-tickets/kamome/01/black-white/kamome-0404-01-black-white.epro2) · [Gerber](birthday-tickets/kamome/01/black-white/kamome-0404-01-black-white-gerber.zip) | [Project](birthday-tickets/kamome/01/black-gold/kamome-0404-01-black-gold.epro2) · [Gerber](birthday-tickets/kamome/01/black-gold/kamome-0404-01-black-gold-gerber.zip) |
+| 02 · Under the Parasol | [Project](birthday-tickets/kamome/02/black-white/kamome-0404-02-black-white.epro2) · [Gerber](birthday-tickets/kamome/02/black-white/kamome-0404-02-black-white-gerber.zip) | [Project](birthday-tickets/kamome/02/black-gold/kamome-0404-02-black-gold.epro2) · [Gerber](birthday-tickets/kamome/02/black-gold/kamome-0404-02-black-gold-gerber.zip) |
+| 03 · Seaside Path | [Project](birthday-tickets/kamome/03/black-white/kamome-0404-03-black-white.epro2) · [Gerber](birthday-tickets/kamome/03/black-white/kamome-0404-03-black-white-gerber.zip) | [Project](birthday-tickets/kamome/03/black-gold/kamome-0404-03-black-gold.epro2) · [Gerber](birthday-tickets/kamome/03/black-gold/kamome-0404-03-black-gold-gerber.zip) |
+| 04 · Travel Trunk | [Project](birthday-tickets/kamome/04/black-white/kamome-0404-04-black-white.epro2) · [Gerber](birthday-tickets/kamome/04/black-white/kamome-0404-04-black-white-gerber.zip) | [Project](birthday-tickets/kamome/04/black-gold/kamome-0404-04-black-gold.epro2) · [Gerber](birthday-tickets/kamome/04/black-gold/kamome-0404-04-black-gold-gerber.zip) |
 
-Both variants have a gold fan, black rib lines and a white flower on the fan.
+## 紬 ヴェンダース
 
-[Black-and-white project](boards/golden-fan/golden-fan.epro2) · [Black-and-white Gerber](boards/golden-fan/gerber.zip) · [Black-and-gold project](boards-character-gold/golden-fan/golden-fan.epro2) · [Black-and-gold Gerber](boards-character-gold/golden-fan/gerber.zip)
+[![紬 ヴェンダース · 01–04](birthday-tickets/tsumugi/gallery.png)](birthday-tickets/tsumugi/gallery.png)
 
-### Riverside · close-up
+[![紬 ヴェンダース · Back](birthday-tickets/tsumugi/back.png)](birthday-tickets/tsumugi/back.png)
 
-[![Riverside close-up · black-and-white and black-and-gold PCB](images/pcb/riverside-close.png)](images/pcb/riverside-close.png)
+| Design | Black and white | Black and gold |
+| --- | --- | --- |
+| 01 · Summer Hairband | [Project](birthday-tickets/tsumugi/01/black-white/tsumugi-0831-01-black-white.epro2) · [Gerber](birthday-tickets/tsumugi/01/black-white/tsumugi-0831-01-black-white-gerber.zip) | [Project](birthday-tickets/tsumugi/01/black-gold/tsumugi-0831-01-black-gold.epro2) · [Gerber](birthday-tickets/tsumugi/01/black-gold/tsumugi-0831-01-black-gold-gerber.zip) |
+| 02 · Plush Companion | [Project](birthday-tickets/tsumugi/02/black-white/tsumugi-0831-02-black-white.epro2) · [Gerber](birthday-tickets/tsumugi/02/black-white/tsumugi-0831-02-black-white-gerber.zip) | [Project](birthday-tickets/tsumugi/02/black-gold/tsumugi-0831-02-black-gold.epro2) · [Gerber](birthday-tickets/tsumugi/02/black-gold/tsumugi-0831-02-black-gold-gerber.zip) |
+| 03 · Lighthouse | [Project](birthday-tickets/tsumugi/03/black-white/tsumugi-0831-03-black-white.epro2) · [Gerber](birthday-tickets/tsumugi/03/black-white/tsumugi-0831-03-black-white-gerber.zip) | [Project](birthday-tickets/tsumugi/03/black-gold/tsumugi-0831-03-black-gold.epro2) · [Gerber](birthday-tickets/tsumugi/03/black-gold/tsumugi-0831-03-black-gold-gerber.zip) |
+| 04 · Golden Hair | [Project](birthday-tickets/tsumugi/04/black-white/tsumugi-0831-04-black-white.epro2) · [Gerber](birthday-tickets/tsumugi/04/black-white/tsumugi-0831-04-black-white-gerber.zip) | [Project](birthday-tickets/tsumugi/04/black-gold/tsumugi-0831-04-black-gold.epro2) · [Gerber](birthday-tickets/tsumugi/04/black-gold/tsumugi-0831-04-black-gold-gerber.zip) |
 
-[Black-and-white project](boards/riverside-close/riverside-close.epro2) · [Black-and-white Gerber](boards/riverside-close/gerber.zip) · [Black-and-gold project](boards-character-gold/riverside-close/riverside-close.epro2) · [Black-and-gold Gerber](boards-character-gold/riverside-close/gerber.zip)
+## 神山 識
 
-### Riverside · medium view
+[![神山 識 · 01–04](birthday-tickets/shiki/gallery.png)](birthday-tickets/shiki/gallery.png)
 
-[![Riverside medium view · black-and-white and black-and-gold PCB](images/pcb/riverside-medium.png)](images/pcb/riverside-medium.png)
+[![神山 識 · Back](birthday-tickets/shiki/back.png)](birthday-tickets/shiki/back.png)
 
-[Black-and-white project](boards/riverside-medium/riverside-medium.epro2) · [Black-and-white Gerber](boards/riverside-medium/gerber.zip) · [Black-and-gold project](boards-character-gold/riverside-medium/riverside-medium.epro2) · [Black-and-gold Gerber](boards-character-gold/riverside-medium/gerber.zip)
+| Design | Black and white | Black and gold |
+| --- | --- | --- |
+| 01 · Oni Hood | [Project](birthday-tickets/shiki/01/black-white/shiki-0704-01-black-white.epro2) · [Gerber](birthday-tickets/shiki/01/black-white/shiki-0704-01-black-white-gerber.zip) | [Project](birthday-tickets/shiki/01/black-gold/shiki-0704-01-black-gold.epro2) · [Gerber](birthday-tickets/shiki/01/black-gold/shiki-0704-01-black-gold-gerber.zip) |
+| 02 · Summer Leap | [Project](birthday-tickets/shiki/02/black-white/shiki-0704-02-black-white.epro2) · [Gerber](birthday-tickets/shiki/02/black-white/shiki-0704-02-black-white-gerber.zip) | [Project](birthday-tickets/shiki/02/black-gold/shiki-0704-02-black-gold.epro2) · [Gerber](birthday-tickets/shiki/02/black-gold/shiki-0704-02-black-gold-gerber.zip) |
+| 03 · Floating Lanterns | [Project](birthday-tickets/shiki/03/black-white/shiki-0704-03-black-white.epro2) · [Gerber](birthday-tickets/shiki/03/black-white/shiki-0704-03-black-white-gerber.zip) | [Project](birthday-tickets/shiki/03/black-gold/shiki-0704-03-black-gold.epro2) · [Gerber](birthday-tickets/shiki/03/black-gold/shiki-0704-03-black-gold-gerber.zip) |
+| 04 · Firelight | [Project](birthday-tickets/shiki/04/black-white/shiki-0704-04-black-white.epro2) · [Gerber](birthday-tickets/shiki/04/black-white/shiki-0704-04-black-white-gerber.zip) | [Project](birthday-tickets/shiki/04/black-gold/shiki-0704-04-black-gold.epro2) · [Gerber](birthday-tickets/shiki/04/black-gold/shiki-0704-04-black-gold-gerber.zip) |
 
-### Riverside · wide view
+## Verification and sources
 
-[![Riverside wide view · black-and-white and black-and-gold PCB](images/pcb/riverside-wide.png)](images/pcb/riverside-wide.png)
+The six manufacturing layers in each native project were checked point by point against its Gerbers, along with mask openings, outline and drills. Factory CAM acceptance and physical samples are pending. Fine hairlines and engraved shadows need sample inspection.
 
-[Black-and-white project](boards/riverside-wide/riverside-wide.epro2) · [Black-and-white Gerber](boards/riverside-wide/gerber.zip) · [Black-and-gold project](boards-character-gold/riverside-wide/riverside-wide.epro2) · [Black-and-gold Gerber](boards-character-gold/riverside-wide/gerber.zip)
+[鳴瀬しろは](birthday-tickets/shiroha/verification.json) · [空門 蒼](birthday-tickets/ao/verification.json) · [久島 鴎](birthday-tickets/kamome/verification.json) · [紬 ヴェンダース](birthday-tickets/tsumugi/verification.json) · [神山 識](birthday-tickets/shiki/verification.json)
 
-### Anime artwork
+[Illustration sources](birthday-tickets/art-sources.json) · [Key](https://key.visualarts.gr.jp/summer_rb/gallery.html) · [TV Anime](https://summerpockets-anime.jp/)
 
-[![Anime artwork · black-and-white and black-and-gold PCB](images/pcb/anime.png)](images/pcb/anime.png)
+Vessel references · [四国汽船](https://www.shikokukisen.com/) · [雌雄島海運](https://meon.co.jp/access#ship)
 
-[Black-and-white project](boards/anime/anime.epro2) · [Black-and-white Gerber](boards/anime/gerber.zip) · [Black-and-gold project](boards-character-gold/anime/anime.epro2) · [Black-and-gold Gerber](boards-character-gold/anime/gerber.zip)
+## References and license
 
-## Ordering a PCB
+Design references · [observer0703 / Kurisu ENIG PCB v1.0.0](https://github.com/observer0703/-kurisu-enig-pcb/releases/tag/v1.0.0) · [adenzhou1350 / ENIG PCB Art](https://github.com/adenzhou1350/enig-pcb-art)
 
-Extract the manufacturing bundle and choose `standard` (black-and-white) or `variant` (black-and-gold). Upload the individual Gerber ZIP for the design you want. Use two-layer FR-4, 1.6 mm thickness, 1 oz copper, black solder mask, white silkscreen and ENIG. The back is already written in manufacturing coordinates; switch to the bottom view in a Gerber viewer to check the text. PNGs are for viewing and printing at physical size.
-
-This version prioritizes artwork detail and is no longer constrained to be easier to manufacture than the Kurisu board. Some fine hair, eye, headdress and fan-rib features remain below conventional line-width or spacing limits. The files have been generated and checked, but have not received factory CAM acceptance or physical-board validation. This detail-preserving version must not be described as having passed all DFM checks. How fully the artwork is reproduced depends on the manufacturer's capabilities.
-
-The contours of all six manufacturing layers in each of the fourteen projects have been checked point by point against their Gerbers. Top copper and solder-mask openings match. The board outline, drill files and three back-side layers are identical to v1.3.1. White silkscreen is kept approximately 0.155 mm away from exposed copper; fine internal artwork lines are not forcibly removed or thickened. [Manufacturing notes and per-design screening (Chinese)](FABRICATION.md) · [Verification data](manufacturing-review.json) · [JLCPCB manufacturing capabilities (Chinese)](https://www.jlc.com/portal/vtechnology.html)
-
-## References and acknowledgments
-
-This project references [observer0703's Kurisu ENIG PCB](https://github.com/observer0703/-kurisu-enig-pcb), specifically [v1.0.0, including its project files and manufacturing guide](https://github.com/observer0703/-kurisu-enig-pcb/releases/tag/v1.0.0). Thank you to the author for sharing the project and production experience.
-
-The board shape, lanyard holes and slot, and base project are reused from that reference. Its use of black solder mask, white silkscreen and ENIG gold also informed the material-layer presentation. The Shiroha artwork, lettering, and front and back ferry-ticket layouts were redesigned on that basis. See the [source notice (Chinese)](NOTICE.md) for the scope of rights covering the upstream design and character materials.
-
-Another related reference is [adenzhou1350's ENIG PCB Art collection](https://github.com/adenzhou1350/enig-pcb-art), which brings together black-and-gold PCB artwork, material-layer documentation, project build tools and reproduction guides. Thank you to the author for sharing these designs and production resources.
-
-## Sources and license
-
-The original ferry-ticket layout, layer artwork and PCB modifications created for this project are licensed under CERN-OHL-P-2.0. Character and source-art rights remain with their respective rights holders. [Sources and scope (Chinese)](NOTICE.md) · [License](LICENSE)
+[CERN-OHL-P-2.0](LICENSE) · [NOTICE](NOTICE.md) · [Main collection](https://github.com/shiroha777777/shiroha-ferry-pcb/blob/main/README.en.md)
