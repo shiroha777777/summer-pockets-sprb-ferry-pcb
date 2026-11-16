@@ -42,10 +42,10 @@
     "stamp": "09.20",
     "front_copper_edge_mm": 1.18,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.15793,
+    "front_silk_copper_gap_mm": 0.15797,
     "back_silk_copper_gap_mm": 0.17558,
     "six_layers_checked": true,
-    "gerber_sha256": "1e56565c01685071cb6097b8500c50383a5e9732a67087011741d0c9fcf5d32c"
+    "gerber_sha256": "d31e492d5d72157e85730391c52f856996559a17f735af50ddeb5114f6863ed6"
   },
   {
     "number": 3,

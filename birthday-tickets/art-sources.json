@@ -129,7 +129,8 @@
       "tool": "OpenAI ImageGen",
       "serial": "0920",
       "route": "高松 → 直島・宮浦",
-      "vessel": "あさひ"
+      "vessel": "あさひ",
+      "black_gold_ink_sha256": "3bf9b748bf2dffab24dcf040d917ce02bdeb41afb822c07ac0d6e7863f10dba6"
     },
     {
       "design": 3,
@@ -190,7 +191,7 @@
         392,
         495
       ],
-      "ink_sha256": "7ffae53ff44a0be8887f2499106096aef26bb170d64858ce110d3a0019e13edb",
+      "ink_sha256": "22d368f7a82accfe327262853467bd347ddfdf214b8089cbe3af87acc53afdc4",
       "tool": "OpenAI ImageGen",
       "serial": "0404",
       "route": "高松 → 直島・宮浦",
@@ -226,7 +227,7 @@
         728,
         1030
       ],
-      "ink_sha256": "c34e1f075682848d6e9c246954e8559eea3edc489320b687347f1455c79df77f",
+      "ink_sha256": "7752aab4f6ac4b56ff1120fcb5de2df01b7a414e03f6729ae291ee6a806c1207",
       "tool": "OpenAI ImageGen",
       "serial": "0404",
       "route": "高松 → 直島・宮浦",
@@ -244,7 +245,7 @@
         936,
         634
       ],
-      "ink_sha256": "9e1755eeb375b6797c918670f165f79e648d8b23c511399058f1f71da13363ea",
+      "ink_sha256": "cac1990bbda68096c3544e08deb8d6a8d8f021ea171c0cfb9073807cd019e1c5",
       "tool": "OpenAI ImageGen",
       "serial": "0404",
       "route": "高松 → 直島・宮浦",

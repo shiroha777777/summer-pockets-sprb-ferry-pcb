@@ -12,6 +12,8 @@ Designs 01–04 run left to right. The top row uses white ink for the character 
 
 The white-silkscreen edition outlines Kamome’s dark hair and picks out the lit folds of her navy dress. The three scenes use gold for parasol ribs, rails and foliage to keep the figure legible.
 
+On the gold edition of Summer Dress, black solder mask forms the shadows beneath the sleeves and inside the skirt folds. Exposed gold picks out the sleeve ruffles, waist seam and the folds spreading from Kamome’s hand. The suitcases in 03 and 04 carry gold bands, corner guards and wheels.
+
 [Download eight Gerber sets](kamome-0404-8-gerbers.zip)
 
 | Design | Black and white | Character in gold | Original |
