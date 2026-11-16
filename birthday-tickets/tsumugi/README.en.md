@@ -6,6 +6,8 @@
 
 **08.31**　高松 → 直島・宮浦 · あさひ
 
+The character ID at the top right of the front is **04** across all designs and both finishes on this page.
+
 [![Tsumugi Wenders](gallery.png)](gallery.png)
 
 Designs 01–04 run left to right. The top row uses white ink for the character and the bottom row uses gold. Open a preview for the full-size board.

@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-Ticket **1007** appears on the front, the back ticket header and the stub. The postmark reads **October 7 (10.07)**. This edition is based on the v1.3.4 Blue Sky design.
+Ticket **1007** appears on the front, the back ticket header and the stub. The postmark reads **October 7 (10.07)**. This edition is based on the v1.3.4 Blue Sky design. The character ID at the top right of the front is **01**.
 
 [Download the 1007 bundle](../blue-sky-1007/Blue-Sky-1007-All.zip)
 

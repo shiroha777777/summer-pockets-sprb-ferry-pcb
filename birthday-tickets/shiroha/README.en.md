@@ -6,6 +6,8 @@
 
 **06.08 · 0608**　高松 → 直島・宮浦 · あさひ
 
+The character ID at the top right of the front is **01** across all designs and both finishes on this page.
+
 [![Nine Shiroha designs](gallery.png)](gallery.png)
 
 Each pair shows the character in white on the left and gold on the right. Open a design name for a larger preview.

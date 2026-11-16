@@ -10,7 +10,8 @@
     "gerber_sha256": "473f54e5ef84c20b42b6ad3812011183e74058f1e77398fe524502b7b3fcdc48",
     "design": "game",
     "project": "game/black-white/game.epro2",
-    "gerber": "game/black-white/gerber.zip"
+    "gerber": "game/black-white/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-gold",
@@ -23,7 +24,8 @@
     "gerber_sha256": "03c5a122e2b041062f1b4c1f3ae4e1c4614be2d5c265bda61c0d3fbb26e3d5f4",
     "design": "game",
     "project": "game/black-gold/game.epro2",
-    "gerber": "game/black-gold/gerber.zip"
+    "gerber": "game/black-gold/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-white",
@@ -36,7 +38,8 @@
     "gerber_sha256": "cac0d44d2e6d3e8efbe778aba91de0f1a1c51339d4f0c1446bb57426f58b2432",
     "design": "blue-sky",
     "project": "blue-sky/black-white/blue-sky.epro2",
-    "gerber": "blue-sky/black-white/gerber.zip"
+    "gerber": "blue-sky/black-white/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-gold",
@@ -49,7 +52,8 @@
     "gerber_sha256": "ff37381977715ef02b039ffa916fc482656c13ad97916fda616ff92eb32a74bf",
     "design": "blue-sky",
     "project": "blue-sky/black-gold/blue-sky.epro2",
-    "gerber": "blue-sky/black-gold/gerber.zip"
+    "gerber": "blue-sky/black-gold/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-white",
@@ -62,7 +66,8 @@
     "gerber_sha256": "084d38e9ae65ad0c8660546cbe6b43ec177e1fca45179757e4bf6843b7e0e136",
     "design": "golden-fan",
     "project": "golden-fan/black-white/golden-fan.epro2",
-    "gerber": "golden-fan/black-white/gerber.zip"
+    "gerber": "golden-fan/black-white/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-gold",
@@ -75,7 +80,8 @@
     "gerber_sha256": "fb812b2d75847e9397c3781493ae35277e6df9c3821fbfc3305594656016971f",
     "design": "golden-fan",
     "project": "golden-fan/black-gold/golden-fan.epro2",
-    "gerber": "golden-fan/black-gold/gerber.zip"
+    "gerber": "golden-fan/black-gold/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-white",
@@ -88,7 +94,8 @@
     "gerber_sha256": "94eac36d529c39590892c3d06ae1748bc1559f912706043056cecb8c492372af",
     "design": "riverside-close",
     "project": "riverside-close/black-white/riverside-close.epro2",
-    "gerber": "riverside-close/black-white/gerber.zip"
+    "gerber": "riverside-close/black-white/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-gold",
@@ -101,7 +108,8 @@
     "gerber_sha256": "8bc815f5b67ea178b6f8c2ac9abe40aaaa0d37fc6a663be3c63743e5cf9b74f9",
     "design": "riverside-close",
     "project": "riverside-close/black-gold/riverside-close.epro2",
-    "gerber": "riverside-close/black-gold/gerber.zip"
+    "gerber": "riverside-close/black-gold/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-white",
@@ -114,7 +122,8 @@
     "gerber_sha256": "e04f560ba5a73ed39cc27ee5ce3ab00ae6051028271ef7ef785558996dcac985",
     "design": "riverside-medium",
     "project": "riverside-medium/black-white/riverside-medium.epro2",
-    "gerber": "riverside-medium/black-white/gerber.zip"
+    "gerber": "riverside-medium/black-white/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-gold",
@@ -127,7 +136,8 @@
     "gerber_sha256": "705014028b7056cd3570df21df88c3b6faa41f0d2f4da585d73d87953e8179d6",
     "design": "riverside-medium",
     "project": "riverside-medium/black-gold/riverside-medium.epro2",
-    "gerber": "riverside-medium/black-gold/gerber.zip"
+    "gerber": "riverside-medium/black-gold/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-white",
@@ -140,7 +150,8 @@
     "gerber_sha256": "36c6d6a6bfe1e032c6aa8e98109298310a7cdb483f1a1c610d4e4484a96721b0",
     "design": "riverside-wide",
     "project": "riverside-wide/black-white/riverside-wide.epro2",
-    "gerber": "riverside-wide/black-white/gerber.zip"
+    "gerber": "riverside-wide/black-white/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-gold",
@@ -153,7 +164,8 @@
     "gerber_sha256": "d41338058dd45ca5d4a3d8a2649669bbb1dca78706db9095973c7f5bb3eec1aa",
     "design": "riverside-wide",
     "project": "riverside-wide/black-gold/riverside-wide.epro2",
-    "gerber": "riverside-wide/black-gold/gerber.zip"
+    "gerber": "riverside-wide/black-gold/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-white",
@@ -166,7 +178,8 @@
     "gerber_sha256": "1fb63ef96a5477a03aed805407c61e3e88517dd5159f3eb8c81127ff8407e327",
     "design": "anime",
     "project": "anime/black-white/anime.epro2",
-    "gerber": "anime/black-white/gerber.zip"
+    "gerber": "anime/black-white/gerber.zip",
+    "character_id": "01"
   },
   {
     "color": "black-gold",
@@ -179,7 +192,8 @@
     "gerber_sha256": "4317ed49d762a01c41401880cefcd56a6e585afc03c19dbfaf816d7380844f93",
     "design": "anime",
     "project": "anime/black-gold/anime.epro2",
-    "gerber": "anime/black-gold/gerber.zip"
+    "gerber": "anime/black-gold/gerber.zip",
+    "character_id": "01"
   },
   {
     "number": 2,
@@ -188,13 +202,14 @@
     "stamp": "06.08",
     "front_copper_edge_mm": 1.18,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.1584,
+    "front_silk_copper_gap_mm": 0.15839,
     "back_silk_copper_gap_mm": 0.17558,
     "six_layers_checked": true,
-    "gerber_sha256": "38d84a8fca5320c5fc36ebd4f2ac4d6bda7adda0dc3469126255aeef33ecfa01",
+    "gerber_sha256": "528193711c5ec40515d20e01022215f5c501ae75b54a2f89b093013dfbdb79e3",
     "design": "02",
     "project": "02/black-white/shiroha-0608-02-black-white.epro2",
-    "gerber": "02/black-white/shiroha-0608-02-black-white-gerber.zip"
+    "gerber": "02/black-white/shiroha-0608-02-black-white-gerber.zip",
+    "character_id": "01"
   },
   {
     "number": 2,
@@ -206,10 +221,11 @@
     "front_silk_copper_gap_mm": 0.15824,
     "back_silk_copper_gap_mm": 0.17558,
     "six_layers_checked": true,
-    "gerber_sha256": "1e44107fe8ef7f25c3e28a74ba6685a8c481fb2860f98d2328958fe3c1f60fd1",
+    "gerber_sha256": "6a41b9e8a3f0c1a8d3467fcb4bf026af18d8569b45f4b7500c95d37a538fd949",
     "design": "02",
     "project": "02/black-gold/shiroha-0608-02-black-gold.epro2",
-    "gerber": "02/black-gold/shiroha-0608-02-black-gold-gerber.zip"
+    "gerber": "02/black-gold/shiroha-0608-02-black-gold-gerber.zip",
+    "character_id": "01"
   },
   {
     "number": 4,
@@ -221,10 +237,11 @@
     "front_silk_copper_gap_mm": 0.65542,
     "back_silk_copper_gap_mm": 0.17558,
     "six_layers_checked": true,
-    "gerber_sha256": "6682270543dc57c01ff16b048bfd5cdb8eeac7fe8bb86c5c47fe32c93a74ec48",
+    "gerber_sha256": "18a41ec700339b9459a51cac18c5a91f8cbc445ff845dc2357f4706196845b6f",
     "design": "04",
     "project": "04/black-white/shiroha-0608-04-black-white.epro2",
-    "gerber": "04/black-white/shiroha-0608-04-black-white-gerber.zip"
+    "gerber": "04/black-white/shiroha-0608-04-black-white-gerber.zip",
+    "character_id": "01"
   },
   {
     "number": 4,
@@ -236,9 +253,10 @@
     "front_silk_copper_gap_mm": 0.97441,
     "back_silk_copper_gap_mm": 0.17558,
     "six_layers_checked": true,
-    "gerber_sha256": "1a7b42c7bacfba37e0ef367465b9ca3ff32b0da3b4aa4ea841def7b53014e5dc",
+    "gerber_sha256": "c4fe766d8d5449568d553164e69fb7b05f457d0ddf45281f0eddf2c6078a3717",
     "design": "04",
     "project": "04/black-gold/shiroha-0608-04-black-gold.epro2",
-    "gerber": "04/black-gold/shiroha-0608-04-black-gold-gerber.zip"
+    "gerber": "04/black-gold/shiroha-0608-04-black-gold-gerber.zip",
+    "character_id": "01"
   }
 ]

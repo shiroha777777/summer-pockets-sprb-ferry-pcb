@@ -8,13 +8,15 @@
 
 しろは・蒼・紬・識にはゲーム公式の立ち絵を、鴎にはテレビアニメ公式の立ち絵を使用しています。
 
-| キャラクター | 誕生日 / 券番号 | 航路・船名 |
-| --- | --- | --- |
-| [鳴瀬しろは](birthday-tickets/shiroha/README.ja.md) | 06.08 / `0608` | 高松 → 直島・宮浦 · あさひ |
-| [空門 蒼](birthday-tickets/ao/README.ja.md) | 09.20 / `0920` | 高松 → 直島・宮浦 · あさひ |
-| [久島 鴎](birthday-tickets/kamome/README.ja.md) | 04.04 / `0404` | 高松 → 直島・宮浦 · あさひ |
-| [紬 ヴェンダース](birthday-tickets/tsumugi/README.ja.md) | 08.31 / `0831` | 高松 → 直島・宮浦 · あさひ |
-| [神山 識](birthday-tickets/shiki/README.ja.md) | 07.04 / `0704` | 高松 → 女木島 · めおん |
+表面右上の2桁はキャラクター番号です。同じキャラクターなら、どの図柄・配色でも共通です。
+
+| キャラクター番号 | キャラクター | 誕生日 / 券番号 | 航路・船名 |
+| --- | --- | --- | --- |
+| `01` | [鳴瀬しろは](birthday-tickets/shiroha/README.ja.md) | 06.08 / `0608` | 高松 → 直島・宮浦 · あさひ |
+| `02` | [空門 蒼](birthday-tickets/ao/README.ja.md) | 09.20 / `0920` | 高松 → 直島・宮浦 · あさひ |
+| `03` | [久島 鴎](birthday-tickets/kamome/README.ja.md) | 04.04 / `0404` | 高松 → 直島・宮浦 · あさひ |
+| `04` | [紬 ヴェンダース](birthday-tickets/tsumugi/README.ja.md) | 08.31 / `0831` | 高松 → 直島・宮浦 · あさひ |
+| `05` | [神山 識](birthday-tickets/shiki/README.ja.md) | 07.04 / `0704` | 高松 → 女木島 · めおん |
 
 ## 裏面
 

@@ -8,13 +8,15 @@ Shiroha has nine birthday ticket designs, Ao has five, and Kamome, Tsumugi and S
 
 Shiroha, Ao, Tsumugi and Shiki use the official game portraits. Kamome uses her official TV anime portrait.
 
-| Character | Birthday / serial | Route · vessel |
-| --- | --- | --- |
-| [Shiroha Naruse](birthday-tickets/shiroha/README.en.md) | 06.08 / `0608` | 高松 → 直島・宮浦 · あさひ |
-| [Ao Sorakado](birthday-tickets/ao/README.en.md) | 09.20 / `0920` | 高松 → 直島・宮浦 · あさひ |
-| [Kamome Kushima](birthday-tickets/kamome/README.en.md) | 04.04 / `0404` | 高松 → 直島・宮浦 · あさひ |
-| [Tsumugi Wenders](birthday-tickets/tsumugi/README.en.md) | 08.31 / `0831` | 高松 → 直島・宮浦 · あさひ |
-| [Shiki Kamiyama](birthday-tickets/shiki/README.en.md) | 07.04 / `0704` | 高松 → 女木島 · めおん |
+The two-digit ID at the top right of each board front is shared by every design and finish for that character.
+
+| Character ID | Character | Birthday / serial | Route · vessel |
+| --- | --- | --- | --- |
+| `01` | [Shiroha Naruse](birthday-tickets/shiroha/README.en.md) | 06.08 / `0608` | 高松 → 直島・宮浦 · あさひ |
+| `02` | [Ao Sorakado](birthday-tickets/ao/README.en.md) | 09.20 / `0920` | 高松 → 直島・宮浦 · あさひ |
+| `03` | [Kamome Kushima](birthday-tickets/kamome/README.en.md) | 04.04 / `0404` | 高松 → 直島・宮浦 · あさひ |
+| `04` | [Tsumugi Wenders](birthday-tickets/tsumugi/README.en.md) | 08.31 / `0831` | 高松 → 直島・宮浦 · あさひ |
+| `05` | [Shiki Kamiyama](birthday-tickets/shiki/README.en.md) | 07.04 / `0704` | 高松 → 女木島 · めおん |
 
 ## Back
 

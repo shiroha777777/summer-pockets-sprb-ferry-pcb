@@ -8,13 +8,15 @@
 
 白羽、苍、紬和识采用游戏官方立绘，鸥采用电视动画官方立绘。
 
-| 角色 | 生日 / 票号 | 航线 · 船名 |
-| --- | --- | --- |
-| [鳴瀬しろは](birthday-tickets/shiroha/README.md) | 06.08 / `0608` | 高松 → 直島・宮浦 · あさひ |
-| [空門 蒼](birthday-tickets/ao/README.md) | 09.20 / `0920` | 高松 → 直島・宮浦 · あさひ |
-| [久島 鴎](birthday-tickets/kamome/README.md) | 04.04 / `0404` | 高松 → 直島・宮浦 · あさひ |
-| [紬 ヴェンダース](birthday-tickets/tsumugi/README.md) | 08.31 / `0831` | 高松 → 直島・宮浦 · あさひ |
-| [神山 識](birthday-tickets/shiki/README.md) | 07.04 / `0704` | 高松 → 女木島 · めおん |
+正面右上角的两位数按角色固定，同一角色的所有款式与配色共用。
+
+| 角色编号 | 角色 | 生日 / 票号 | 航线 · 船名 |
+| --- | --- | --- | --- |
+| `01` | [鳴瀬しろは](birthday-tickets/shiroha/README.md) | 06.08 / `0608` | 高松 → 直島・宮浦 · あさひ |
+| `02` | [空門 蒼](birthday-tickets/ao/README.md) | 09.20 / `0920` | 高松 → 直島・宮浦 · あさひ |
+| `03` | [久島 鴎](birthday-tickets/kamome/README.md) | 04.04 / `0404` | 高松 → 直島・宮浦 · あさひ |
+| `04` | [紬 ヴェンダース](birthday-tickets/tsumugi/README.md) | 08.31 / `0831` | 高松 → 直島・宮浦 · あさひ |
+| `05` | [神山 識](birthday-tickets/shiki/README.md) | 07.04 / `0704` | 高松 → 女木島 · めおん |
 
 ## 背面
 

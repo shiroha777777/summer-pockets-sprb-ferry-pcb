@@ -9,7 +9,8 @@
     "front_silk_copper_gap_mm": 0.65554,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "2b5ae2114535df9df1a034451bbf215a8e3e6202139428ccd5249e544d462a60"
+    "gerber_sha256": "a71143317da162ce7933889c921f6ced668daf98da73401c6638a8c7584a8f08",
+    "character_id": "05"
   },
   {
     "number": 1,
@@ -18,10 +19,11 @@
     "stamp": "07.04",
     "front_copper_edge_mm": 1.18,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.95041,
+    "front_silk_copper_gap_mm": 0.95001,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "73cdd9880057d8739c3ae587cbee12acc77fef23223cd6283c43c932919166bc"
+    "gerber_sha256": "87f0ac35f89d31bd73f26e727e8df741e44291b7f152d74371b8fad289962671",
+    "character_id": "05"
   },
   {
     "number": 2,
@@ -33,7 +35,8 @@
     "front_silk_copper_gap_mm": 0.65539,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "9bbd1b3a8e32a0329252e8dc2b4f0c2fc7baf9a73778f1ad4381b57b853e6981"
+    "gerber_sha256": "7bb1e3a38c3f97ab746d0935ce23687f014356bb5c81d070410c281f20cf57d7",
+    "character_id": "05"
   },
   {
     "number": 2,
@@ -45,7 +48,8 @@
     "front_silk_copper_gap_mm": 0.15829,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "5af972a210977ea5af09c84d74fda9f75b2e6255826645e13ffeb73fc9d64d90"
+    "gerber_sha256": "6ddd51ef3a5691ab6bad5b876f83ed5e4ed91158d28137b17ba4f29d55693be4",
+    "character_id": "05"
   },
   {
     "number": 3,
@@ -57,7 +61,8 @@
     "front_silk_copper_gap_mm": 0.15837,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "2463c650bc57bf16a9680f87fa308343abf6159c910d39e2930d7cae4271500b"
+    "gerber_sha256": "a7dc9ce23d8916c26c17e23ccc9b5552426fa383bfc900773c808fed16fc2259",
+    "character_id": "05"
   },
   {
     "number": 3,
@@ -69,7 +74,8 @@
     "front_silk_copper_gap_mm": 0.15813,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "4326bb6a055e10ace4545d694a5db83e47ba3ab11a45be8e15ca3f17c64125dc"
+    "gerber_sha256": "440247ac678f067ff72f8aa0d9379e2d2017b7fdcbc0afad053d4099dafc064b",
+    "character_id": "05"
   },
   {
     "number": 4,
@@ -81,7 +87,8 @@
     "front_silk_copper_gap_mm": 0.15826,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "154ceb1969c0d8b1f8d5f860a1c6bb4898f965c0a85867ae96421307aab11941"
+    "gerber_sha256": "66b4025a2d54f5636286ba61e2455ebea1c5d49e08a27f7790f88c19d8c06b6f",
+    "character_id": "05"
   },
   {
     "number": 4,
@@ -90,9 +97,10 @@
     "stamp": "07.04",
     "front_copper_edge_mm": 1.1437,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.9541,
+    "front_silk_copper_gap_mm": 0.95001,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "61c8e05fe0e2f3520bf27469db6ad80bb6913d5add1988fb86539fd4518047a4"
+    "gerber_sha256": "d9437ec1883d901cddcb4f0b989fb3ee130a79f00646399b2debb46fa11f1056",
+    "character_id": "05"
   }
 ]

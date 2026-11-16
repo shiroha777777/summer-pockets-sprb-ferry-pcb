@@ -6,6 +6,8 @@
 
 **07.04**　高松 → 女木島 · めおん
 
+The character ID at the top right of the front is **05** across all designs and both finishes on this page.
+
 [![Shiki Kamiyama](gallery.png)](gallery.png)
 
 Designs 01–04 run left to right. The top row uses white ink for the character and the bottom row uses gold. Open a preview for the full-size board.
