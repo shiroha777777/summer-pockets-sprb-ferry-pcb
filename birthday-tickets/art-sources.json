@@ -164,6 +164,18 @@
       "serial": "0920",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
+    },
+    {
+      "design": 5,
+      "title": "Butterfly Light",
+      "official_original": "https://key.visualarts.gr.jp/summer/common/image/gallery_cg_04_l.jpg",
+      "input": "User-supplied crop of the original CG",
+      "source_sha256": "58a6d917666d21dc169c16090aa2ec29bfb17c0d211358fcf1b01eee03e5e532",
+      "ink_sha256": "612fec7be3756de4a533085e6abf4ad530f8b721216a109474dd6930bb439884",
+      "tool": "OpenAI ImageGen",
+      "serial": "0920",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ"
     }
   ],
   "kamome": [

@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-Shiroha has nine birthday ticket designs, and the other four heroines have four each. The 25 designs come in two finishes, for a total of 50 double-sided projects. Each character page includes front and back previews and fabrication files.
+Shiroha has nine birthday ticket designs, Ao has five, and Kamome, Tsumugi and Shiki have four each. The 26 designs come in two finishes, for a total of 52 double-sided projects. Each character page includes front and back previews and fabrication files.
 
 [![Birthday collection](birthday-tickets/collection.png)](birthday-tickets/collection.png)
 

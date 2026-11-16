@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-白羽收录 9 款生日票，其余四位角色各有 4 款，共 25 款、50 套双面工程。各角色页提供黑白与黑金预览、背板和打板文件。
+白羽收录 9 款生日票，空门苍 5 款，久岛鸥、紬和神山识各 4 款，共 26 款、52 套双面工程。各角色页提供黑白与黑金预览、背板和打板文件。
 
 [![五人生日系列](birthday-tickets/collection.png)](birthday-tickets/collection.png)
 

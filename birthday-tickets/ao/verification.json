@@ -94,5 +94,29 @@
     "back_silk_copper_gap_mm": 0.17558,
     "six_layers_checked": true,
     "gerber_sha256": "743735849d2c6e0fa42e7deddf82ddc927eb9f537f5f300411f59a899c9457be"
+  },
+  {
+    "number": 5,
+    "color": "black-white",
+    "serial": "0920",
+    "stamp": "09.20",
+    "front_copper_edge_mm": 1.18,
+    "back_copper_edge_mm": 0.761,
+    "front_silk_copper_gap_mm": 0.15867,
+    "back_silk_copper_gap_mm": 0.17558,
+    "six_layers_checked": true,
+    "gerber_sha256": "83e64f1104ec46a288f54ba6fa1c143c849d8729fb04e1334ddee890312aa892"
+  },
+  {
+    "number": 5,
+    "color": "black-gold",
+    "serial": "0920",
+    "stamp": "09.20",
+    "front_copper_edge_mm": 1.18,
+    "back_copper_edge_mm": 0.761,
+    "front_silk_copper_gap_mm": 0.97157,
+    "back_silk_copper_gap_mm": 0.17558,
+    "six_layers_checked": true,
+    "gerber_sha256": "6cd187da79f57bde13433bb8c68ce1852b1c35389cd776f999f3916701357482"
   }
 ]
