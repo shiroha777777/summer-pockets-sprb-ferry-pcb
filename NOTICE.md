@@ -8,4 +8,4 @@ Copyright © 2026 shiroha777。本项目有权授权的原创硬件设计改动�
 
 船的外形参考四国汽船「あさひ」。票面为纪念设计。[四国汽船](https://www.shikokukisen.com/)
 
-本分支收录鳴瀬しろは、空門蒼、久島鴎、紬ヴェンダース与神山識的同人生日船票。游戏和动画角色、插画的权利归各自权利人。女木島航线「めおん」的船图按雌雄島海運船舶照片绘制。[逐款插画来源](birthday-tickets/art-sources.json) · [雌雄島海運船舶资料](https://meon.co.jp/access#ship)
+生日系列收录鳴瀬しろは、空門蒼、久島鴎、紬ヴェンダース与神山識的同人生日船票。游戏和动画角色、插画的权利归各自权利人。女木島航线「めおん」的船图按雌雄島海運船舶照片绘制。[逐款插画来源](birthday-tickets/art-sources.json) · [雌雄島海運船舶资料](https://meon.co.jp/access#ship)

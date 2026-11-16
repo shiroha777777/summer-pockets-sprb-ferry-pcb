@@ -3,36 +3,68 @@
     {
       "design": 1,
       "title": "Sea Breeze",
-      "art_source": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara02.png",
-      "ticket_number": "0608",
-      "ticket_date": "06.08",
+      "official_original": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara02.png",
+      "source_sha256": "25d7ae40580fcbdf14009c97268c196aa037a54a63f7b83acb57022774266a79",
+      "original_crop_xyxy": [
+        120,
+        7,
+        400,
+        483
+      ],
+      "ink_sha256": "417a5653ef0532c9d2838d9071acc29966a8f16779bcd0b0657edf43703956ab",
+      "tool": "OpenAI ImageGen",
+      "serial": "0608",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 2,
       "title": "Fishing",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_01_l.jpg",
-      "ticket_number": "0608",
-      "ticket_date": "06.08",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_01_l.jpg",
+      "source_sha256": "f4143f1da84ced8d0c4383cb651dd171a4c28c3787468669a94da1e578643886",
+      "original_crop_xyxy": [
+        396,
+        0,
+        1152,
+        641
+      ],
+      "ink_sha256": "624fb7dec006b0c650b225764b8f7d42164401a3971ba6221f0866f4df46c81d",
+      "tool": "OpenAI ImageGen",
+      "serial": "0608",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 3,
       "title": "Forest Stream",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_01_l.jpg",
-      "ticket_number": "0608",
-      "ticket_date": "06.08",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_01_l.jpg",
+      "source_sha256": "04da91f0467c161fe8d4e62b51f4b25ae0a7f563620fe5dc7d7c3a339310c692",
+      "original_crop_xyxy": [
+        32,
+        374,
+        568,
+        1053
+      ],
+      "ink_sha256": "c8c51b95bdb07a034da0f10490c616fd4b6e8c61bd82b1e66ece238ea3a55672",
+      "tool": "OpenAI ImageGen",
+      "serial": "0608",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 4,
       "title": "Underwater",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_02_l.jpg",
-      "ticket_number": "0608",
-      "ticket_date": "06.08",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_02_l.jpg",
+      "source_sha256": "1b162d2995255c9dda5b5aab95f030e8369af4e99214463b5941fb64d5d71adc",
+      "original_crop_xyxy": [
+        55,
+        0,
+        570,
+        392
+      ],
+      "ink_sha256": "cf7e6bb0b977b7dd1ab828031d654b00d2bff1027a9e1882fff60b2317f148b7",
+      "tool": "OpenAI ImageGen",
+      "serial": "0608",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     }
@@ -41,36 +73,68 @@
     {
       "design": 1,
       "title": "Island Summer",
-      "art_source": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara03.png",
-      "ticket_number": "0920",
-      "ticket_date": "09.20",
+      "official_original": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara03.png",
+      "source_sha256": "e03b049b2fd1347b53ba23becbec307e181d64e9b895015c57c01b48f2dd70db",
+      "original_crop_xyxy": [
+        128,
+        9,
+        397,
+        507
+      ],
+      "ink_sha256": "7deec72893b5ec527934fd90f1e8c01942e91f825d4495c4aaf7aad6d4d5864e",
+      "tool": "OpenAI ImageGen",
+      "serial": "0920",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 2,
-      "title": "Apple Peel",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_03_l.jpg",
-      "ticket_number": "0920",
-      "ticket_date": "09.20",
+      "title": "Bedside",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_03_l.jpg",
+      "source_sha256": "0846882d2d261054cd306493d4a3a97abab8cff2658acbb388dd6812871abf1e",
+      "original_crop_xyxy": [
+        252,
+        0,
+        1020,
+        675
+      ],
+      "ink_sha256": "bcd728d7d7a01f3fd098e81fd49c09e1f616da02251244592764a46a06fa19d2",
+      "tool": "OpenAI ImageGen",
+      "serial": "0920",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 3,
       "title": "Night Forest",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_02_l.jpg",
-      "ticket_number": "0920",
-      "ticket_date": "09.20",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_02_l.jpg",
+      "source_sha256": "65a85dff96ed153bdf9336e1646640c7416a6bd56bafa29ca147a7a6fd5d69d1",
+      "original_crop_xyxy": [
+        104,
+        351,
+        752,
+        1075
+      ],
+      "ink_sha256": "dc56f011a9cc0ee9c0d466dd8a2203ca4faa403bcb3a8f1d471b1e5b7c563940",
+      "tool": "OpenAI ImageGen",
+      "serial": "0920",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 4,
       "title": "Summer Uniform",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_ao.png",
-      "ticket_number": "0920",
-      "ticket_date": "09.20",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_ao.png",
+      "source_sha256": "c52321fe9c22f15f55f2b053799711caf33c781ae6bfa6cbcd28c467d99b725f",
+      "original_crop_xyxy": [
+        0,
+        0,
+        573,
+        644
+      ],
+      "ink_sha256": "447ad044348ebf1463f7904076440cbf5d57b94a69632f33940552f9bfd3a78e",
+      "tool": "OpenAI ImageGen",
+      "serial": "0920",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     }
@@ -79,74 +143,142 @@
     {
       "design": 1,
       "title": "Summer Dress",
-      "art_source": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara04.png",
-      "ticket_number": "0404",
-      "ticket_date": "04.04",
+      "official_original": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara04.png",
+      "source_sha256": "72247770a75ea738b5d09eab6c74c721c6670ca28e89f9d0b847ba0ef559076c",
+      "original_crop_xyxy": [
+        74,
+        6,
+        392,
+        495
+      ],
+      "ink_sha256": "7ffae53ff44a0be8887f2499106096aef26bb170d64858ce110d3a0019e13edb",
+      "tool": "OpenAI ImageGen",
+      "serial": "0404",
       "route": "高松 → 直島・宮浦",
-      "vessel": "あさひ"
+      "vessel": "あさひ",
+      "black_white_ink_sha256": "e913ef83a2819bc305f6971531cd5056d6affe922be4cf440920e9d91a70ed6e"
     },
     {
       "design": 2,
       "title": "Under the Parasol",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_05_l.jpg",
-      "ticket_number": "0404",
-      "ticket_date": "04.04",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_05_l.jpg",
+      "source_sha256": "307fd3b09f7766a6560b907806102d83a315b2a6fe7d4ee5d41d62909f2de7c4",
+      "original_crop_xyxy": [
+        0,
+        0,
+        1104,
+        675
+      ],
+      "ink_sha256": "99e0cd2ccec23da255cbf9201d562d11ab1efd84f08c03559202dc1242cc5cc2",
+      "tool": "OpenAI ImageGen",
+      "serial": "0404",
       "route": "高松 → 直島・宮浦",
-      "vessel": "あさひ"
+      "vessel": "あさひ",
+      "black_white_ink_sha256": "e1c4bb428759a268bc14d77d56088ac774e084cee13f0aae2a181142f0fdc39c"
     },
     {
       "design": 3,
       "title": "Seaside Path",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_03_l.jpg",
-      "ticket_number": "0404",
-      "ticket_date": "04.04",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_03_l.jpg",
+      "source_sha256": "ca782e4d963bc191ebe7304c92bc6f45dce906ae070133c3289496e0b15b3296",
+      "original_crop_xyxy": [
+        80,
+        136,
+        728,
+        1030
+      ],
+      "ink_sha256": "c34e1f075682848d6e9c246954e8559eea3edc489320b687347f1455c79df77f",
+      "tool": "OpenAI ImageGen",
+      "serial": "0404",
       "route": "高松 → 直島・宮浦",
-      "vessel": "あさひ"
+      "vessel": "あさひ",
+      "black_white_ink_sha256": "394b3383658b8ab3fcad673c6dc7d3c1d1d0fd3c6ece7551d23cab62e55bb1e0"
     },
     {
       "design": 4,
       "title": "Travel Trunk",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_06_l.jpg",
-      "ticket_number": "0404",
-      "ticket_date": "04.04",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_06_l.jpg",
+      "source_sha256": "ada7ace2b55b9e0548aef7b810962793430ac23b79be269cd3314c8e66abc944",
+      "original_crop_xyxy": [
+        564,
+        27,
+        936,
+        634
+      ],
+      "ink_sha256": "9e1755eeb375b6797c918670f165f79e648d8b23c511399058f1f71da13363ea",
+      "tool": "OpenAI ImageGen",
+      "serial": "0404",
       "route": "高松 → 直島・宮浦",
-      "vessel": "あさひ"
+      "vessel": "あさひ",
+      "black_white_ink_sha256": "50601e2fc9bb23733c7da37053c21b3053cc7373975b863f5d71947c6e59644f"
     }
   ],
   "tsumugi": [
     {
       "design": 1,
       "title": "Summer Hairband",
-      "art_source": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara05.png",
-      "ticket_number": "0831",
-      "ticket_date": "08.31",
+      "official_original": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara05.png",
+      "source_sha256": "7baf688291e76ba8b597219c4d56f88fdaee90bb8a3de7da79689fb6b19a79a8",
+      "original_crop_xyxy": [
+        115,
+        9,
+        475,
+        494
+      ],
+      "ink_sha256": "993ef182aeda5f2c9a26f59e7f87d6786a8b72db137264e53ce3bc0929684fe8",
+      "tool": "OpenAI ImageGen",
+      "serial": "0831",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 2,
       "title": "Plush Companion",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_07_l.jpg",
-      "ticket_number": "0831",
-      "ticket_date": "08.31",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_07_l.jpg",
+      "source_sha256": "3b0ff4bffcf2509e9b8ff68f81fb23029d29bacaba4d7dac0d909c122b8b6295",
+      "original_crop_xyxy": [
+        276,
+        0,
+        1188,
+        675
+      ],
+      "ink_sha256": "238e8fa6cdf696fde12b1d8629efa678e8dfa9d23c215a629b29b100720774da",
+      "tool": "OpenAI ImageGen",
+      "serial": "0831",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 3,
       "title": "Lighthouse",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_04_l.jpg",
-      "ticket_number": "0831",
-      "ticket_date": "08.31",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_04_l.jpg",
+      "source_sha256": "f76f47b3de9142b43b502b654f0b1be050552f22ecfad957d5fecb229b15c954",
+      "original_crop_xyxy": [
+        192,
+        260,
+        800,
+        996
+      ],
+      "ink_sha256": "4beb55c03f2aeb7fe165e7aa94a778b94763f8155f5474a9504e6278e11a2775",
+      "tool": "OpenAI ImageGen",
+      "serial": "0831",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     },
     {
       "design": 4,
       "title": "Golden Hair",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_wenders.png",
-      "ticket_number": "0831",
-      "ticket_date": "08.31",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_wenders.png",
+      "source_sha256": "b948c81e9484e69ad1b4c203de7939fc586369a51b25b594ce6e39e88d9cd35c",
+      "original_crop_xyxy": [
+        0,
+        0,
+        532,
+        641
+      ],
+      "ink_sha256": "741396788b75a08db98b81b8726aaa5a11ca7939bf836055bfde62413aab669f",
+      "tool": "OpenAI ImageGen",
+      "serial": "0831",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
     }
@@ -155,36 +287,68 @@
     {
       "design": 1,
       "title": "Oni Hood",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_shiki.png",
-      "ticket_number": "0704",
-      "ticket_date": "07.04",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_shiki.png",
+      "source_sha256": "3440ff806de4cf2df71ed7718da710279d1e782583e186a88b590b9a7f52b187",
+      "original_crop_xyxy": [
+        0,
+        0,
+        533,
+        611
+      ],
+      "ink_sha256": "ccf613d94cbafa941250a36212ded18312f2960c3f8c1102f1f94a6cb083813a",
+      "tool": "OpenAI ImageGen",
+      "serial": "0704",
       "route": "高松 → 女木島",
       "vessel": "めおん"
     },
     {
       "design": 2,
       "title": "Summer Leap",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg",
-      "ticket_number": "0704",
-      "ticket_date": "07.04",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg",
+      "source_sha256": "a79bb016130c515c1eb0269378a7abcdbffbc9c6c72f49d7a60639c4edad45c5",
+      "original_crop_xyxy": [
+        144,
+        0,
+        1188,
+        648
+      ],
+      "ink_sha256": "6ef177ab3769a1503841f8998e23a868e10d81debb5b256af89afaf9aa6dfad8",
+      "tool": "OpenAI ImageGen",
+      "serial": "0704",
       "route": "高松 → 女木島",
       "vessel": "めおん"
     },
     {
       "design": 3,
       "title": "Floating Lanterns",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg",
-      "ticket_number": "0704",
-      "ticket_date": "07.04",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg",
+      "source_sha256": "dd0df5059d1615f8df23a1a5377ba7bd47af820f24897f2247a45eeea777af5d",
+      "original_crop_xyxy": [
+        128,
+        306,
+        664,
+        985
+      ],
+      "ink_sha256": "0762fbde1e7e10c486ecd3d6cc7ebbc044d662bd14cf3f3644326ff61b641249",
+      "tool": "OpenAI ImageGen",
+      "serial": "0704",
       "route": "高松 → 女木島",
       "vessel": "めおん"
     },
     {
       "design": 4,
       "title": "Firelight",
-      "art_source": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_16_l.jpg",
-      "ticket_number": "0704",
-      "ticket_date": "07.04",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_16_l.jpg",
+      "source_sha256": "0b32001d9e773b79fd8375bedd3f8bb76466ea5bc80ea09ea5065d82240a0b33",
+      "original_crop_xyxy": [
+        180,
+        0,
+        1200,
+        675
+      ],
+      "ink_sha256": "b136a522a2c662f3ea8ea59706f2ca1cf1e0defac2a189195eccf6f403688bb2",
+      "tool": "OpenAI ImageGen",
+      "serial": "0704",
       "route": "高松 → 女木島",
       "vessel": "めおん"
     }
