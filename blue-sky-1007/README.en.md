@@ -20,7 +20,7 @@ To order a board, upload the Gerber ZIP for your chosen color variant.
 
 [![Black and gold · Front and back](../blue-sky-1007/Blue-Sky-1007-Black-Gold.png)](../blue-sky-1007/Blue-Sky-1007-Black-Gold.png)
 
-[See all seven mainline designs](../shiroha-classic/README.en.md)
+[All nine Shiroha designs](../birthday-tickets/shiroha/README.en.md)
 
 ## References and acknowledgments
 

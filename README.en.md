@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-Each heroine has four birthday ticket designs, each available as a double-sided black-and-white or black-and-gold board. ImageGen inked each illustration from its official full-colour character or event artwork. The character pages show both sides, link the originals and provide the fabrication files.
+Shiroha has nine birthday ticket designs, and the other four heroines have four each. The 25 designs come in two finishes, for a total of 50 double-sided projects. Each character page includes front and back previews and fabrication files.
 
 [![Birthday collection](birthday-tickets/collection.png)](birthday-tickets/collection.png)
 
@@ -20,11 +20,11 @@ Each heroine has four birthday ticket designs, each available as a double-sided 
 
 [![めおん](birthday-tickets/shiki/back.png)](birthday-tickets/shiki/back.png)
 
-## Shiroha game portrait · original seven
+## Shiroha game portrait
 
-[![Shiroha game portrait · original seven](images/pcb/game.png)](images/pcb/game.png)
+[![Shiroha game portrait](birthday-tickets/shiroha/game/preview.png)](birthday-tickets/shiroha/game/preview.png)
 
-[Original seven](shiroha-classic/README.en.md) · [Blue Sky 1007 special](blue-sky-1007/README.en.md)
+[All nine Shiroha designs](birthday-tickets/shiroha/README.en.md) · [Blue Sky 1007 special](blue-sky-1007/README.en.md)
 
 ## Fabrication
 

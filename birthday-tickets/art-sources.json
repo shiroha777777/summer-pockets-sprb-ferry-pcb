@@ -1,21 +1,65 @@
 {
   "shiroha": [
     {
-      "design": 1,
-      "title": "Sea Breeze",
-      "official_original": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara02.png",
-      "source_sha256": "25d7ae40580fcbdf14009c97268c196aa037a54a63f7b83acb57022774266a79",
-      "original_crop_xyxy": [
-        120,
-        7,
-        400,
-        483
-      ],
-      "ink_sha256": "417a5653ef0532c9d2838d9071acc29966a8f16779bcd0b0657edf43703956ab",
-      "tool": "OpenAI ImageGen",
+      "design": "game",
+      "title": "Game portrait",
+      "edition": "v1.3.4",
+      "serial": "0608",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_siroha.png"
+    },
+    {
+      "design": "blue-sky",
+      "title": "Blue sky",
+      "edition": "v1.3.4",
       "serial": "0608",
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ"
+    },
+    {
+      "design": "golden-fan",
+      "title": "Golden fan",
+      "edition": "v1.3.4",
+      "serial": "0608",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ"
+    },
+    {
+      "design": "riverside-close",
+      "title": "Riverside close-up",
+      "edition": "v1.3.4",
+      "serial": "0608",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_01_l.jpg"
+    },
+    {
+      "design": "riverside-medium",
+      "title": "Riverside medium shot",
+      "edition": "v1.3.4",
+      "serial": "0608",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_01_l.jpg"
+    },
+    {
+      "design": "riverside-wide",
+      "title": "Riverside wide shot",
+      "edition": "v1.3.4",
+      "serial": "0608",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_01_l.jpg"
+    },
+    {
+      "design": "anime",
+      "title": "Anime portrait",
+      "edition": "v1.3.4",
+      "serial": "0608",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ",
+      "official_original": "https://summerpockets-anime.jp/wp_summer/wp-content/themes/summerpocket_thema/img/chara/chara02.png"
     },
     {
       "design": 2,
@@ -29,23 +73,6 @@
         641
       ],
       "ink_sha256": "624fb7dec006b0c650b225764b8f7d42164401a3971ba6221f0866f4df46c81d",
-      "tool": "OpenAI ImageGen",
-      "serial": "0608",
-      "route": "高松 → 直島・宮浦",
-      "vessel": "あさひ"
-    },
-    {
-      "design": 3,
-      "title": "Forest Stream",
-      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_01_l.jpg",
-      "source_sha256": "04da91f0467c161fe8d4e62b51f4b25ae0a7f563620fe5dc7d7c3a339310c692",
-      "original_crop_xyxy": [
-        32,
-        374,
-        568,
-        1053
-      ],
-      "ink_sha256": "c8c51b95bdb07a034da0f10490c616fd4b6e8c61bd82b1e66ece238ea3a55672",
       "tool": "OpenAI ImageGen",
       "serial": "0608",
       "route": "高松 → 直島・宮浦",

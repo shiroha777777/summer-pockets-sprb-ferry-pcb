@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-各ヒロインに4図柄、それぞれ白黒・黒金の両面基板があります。公式のカラー立ち絵とイベントCGを図柄ごとに参照して、ImageGen で版下を描き起こしました。各キャラクターのページから表裏、原画、製造データを確認できます。
+しろはの誕生日乗船券は9図柄、ほかの4人は各4図柄です。全25図柄に白黒版と黒金版があり、両面基板は合計50種類です。各キャラクターのページで表裏のプレビューと製造データを確認できます。
 
 [![誕生日シリーズ](birthday-tickets/collection.png)](birthday-tickets/collection.png)
 
@@ -20,11 +20,11 @@
 
 [![めおん](birthday-tickets/shiki/back.png)](birthday-tickets/shiki/back.png)
 
-## しろはのゲーム立ち絵・オリジナル7種
+## しろはのゲーム立ち絵
 
-[![しろはのゲーム立ち絵・オリジナル7種](images/pcb/game.png)](images/pcb/game.png)
+[![しろはのゲーム立ち絵](birthday-tickets/shiroha/game/preview.png)](birthday-tickets/shiroha/game/preview.png)
 
-[オリジナル7種](shiroha-classic/README.ja.md) · [青空 1007 特別版](blue-sky-1007/README.ja.md)
+[しろはの全9図柄](birthday-tickets/shiroha/README.ja.md) · [青空 1007 特別版](blue-sky-1007/README.ja.md)
 
 ## 基板製造
 

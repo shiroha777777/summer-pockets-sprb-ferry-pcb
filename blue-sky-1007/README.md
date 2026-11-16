@@ -20,7 +20,7 @@
 
 [![黑金版 · 正反面预览](../blue-sky-1007/Blue-Sky-1007-Black-Gold.png)](../blue-sky-1007/Blue-Sky-1007-Black-Gold.png)
 
-[查看主线七款设计](../shiroha-classic/README.md)
+[白羽全部九款](../birthday-tickets/shiroha/README.md)
 
 ## 参考项目与致谢
 

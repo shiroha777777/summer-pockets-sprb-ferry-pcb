@@ -2,7 +2,7 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-每位角色有四款生日船票，每款都有黑白、黑金两套双面工程。人物画稿由 ImageGen 参照对应的官方彩色立绘或活动 CG 绘制。打开角色页可查看正反面、对照原画并下载打板文件。
+白羽收录 9 款生日票，其余四位角色各有 4 款，共 25 款、50 套双面工程。各角色页提供黑白与黑金预览、背板和打板文件。
 
 [![五人生日系列](birthday-tickets/collection.png)](birthday-tickets/collection.png)
 
@@ -20,11 +20,11 @@
 
 [![めおん](birthday-tickets/shiki/back.png)](birthday-tickets/shiki/back.png)
 
-## 白羽游戏立绘 · 经典七款
+## 白羽游戏立绘
 
-[![白羽游戏立绘 · 经典七款](images/pcb/game.png)](images/pcb/game.png)
+[![白羽游戏立绘](birthday-tickets/shiroha/game/preview.png)](birthday-tickets/shiroha/game/preview.png)
 
-[经典七款](shiroha-classic/README.md) · [蓝天 1007 特别版](blue-sky-1007/README.md)
+[白羽全部九款](birthday-tickets/shiroha/README.md) · [蓝天 1007 特别版](blue-sky-1007/README.md)
 
 ## 制板
 

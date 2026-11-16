@@ -20,7 +20,7 @@
 
 [![黒金版 · 表裏のプレビュー](../blue-sky-1007/Blue-Sky-1007-Black-Gold.png)](../blue-sky-1007/Blue-Sky-1007-Black-Gold.png)
 
-[通常版の全 7 種を見る](../shiroha-classic/README.ja.md)
+[しろはの全9図柄](../birthday-tickets/shiroha/README.ja.md)
 
 ## 参考プロジェクト・謝辞
 
