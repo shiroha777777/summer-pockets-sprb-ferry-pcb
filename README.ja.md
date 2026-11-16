@@ -4,7 +4,9 @@
 
 しろはの誕生日乗船券は9図柄、蒼は5図柄、鴎・紬・識は各4図柄です。全26図柄に白黒版と黒金版があり、両面基板は合計52種類です。各キャラクターのページで表裏のプレビューと製造データを確認できます。
 
-[![誕生日シリーズ](birthday-tickets/collection.png)](birthday-tickets/collection.png)
+[![しろは・蒼・鴎・紬・識の公式立ち絵を使った基板](birthday-tickets/collection.png)](birthday-tickets/collection.png)
+
+しろは・蒼・紬・識にはゲーム公式の立ち絵を、鴎にはテレビアニメ公式の立ち絵を使用しています。
 
 | キャラクター | 誕生日 / 券番号 | 航路・船名 |
 | --- | --- | --- |

@@ -4,7 +4,9 @@
 
 Shiroha has nine birthday ticket designs, Ao has five, and Kamome, Tsumugi and Shiki have four each. The 26 designs come in two finishes, for a total of 52 double-sided projects. Each character page includes front and back previews and fabrication files.
 
-[![Birthday collection](birthday-tickets/collection.png)](birthday-tickets/collection.png)
+[![PCB portraits of Shiroha, Ao, Kamome, Tsumugi and Shiki](birthday-tickets/collection.png)](birthday-tickets/collection.png)
+
+Shiroha, Ao, Tsumugi and Shiki use the official game portraits. Kamome uses her official TV anime portrait.
 
 | Character | Birthday / serial | Route · vessel |
 | --- | --- | --- |

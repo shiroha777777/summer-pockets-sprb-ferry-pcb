@@ -4,7 +4,9 @@
 
 白羽收录 9 款生日票，空门苍 5 款，久岛鸥、紬和神山识各 4 款，共 26 款、52 套双面工程。各角色页提供黑白与黑金预览、背板和打板文件。
 
-[![五人生日系列](birthday-tickets/collection.png)](birthday-tickets/collection.png)
+[![白羽、苍、鸥、紬和识的官方角色立绘 PCB](birthday-tickets/collection.png)](birthday-tickets/collection.png)
+
+白羽、苍、紬和识采用游戏官方立绘，鸥采用电视动画官方立绘。
 
 | 角色 | 生日 / 票号 | 航线 · 船名 |
 | --- | --- | --- |
