@@ -19,6 +19,8 @@
 | 03 · 浮灯 | [PNG](03/black-white/front.png) · [工程](03/black-white/shiki-0704-03-black-white.epro2) · [Gerber](03/black-white/shiki-0704-03-black-white-gerber.zip) | [PNG](03/black-gold/front.png) · [工程](03/black-gold/shiki-0704-03-black-gold.epro2) · [Gerber](03/black-gold/shiki-0704-03-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg) · [线稿](03/ink.png) |
 | 04 · 线香花火 | [PNG](04/black-white/front.png) · [工程](04/black-white/shiki-0704-04-black-white.epro2) · [Gerber](04/black-white/shiki-0704-04-black-white-gerber.zip) | [PNG](04/black-gold/front.png) · [工程](04/black-gold/shiki-0704-04-black-gold.epro2) · [Gerber](04/black-gold/shiki-0704-04-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_16_l.jpg) · [线稿](04/ink.png) |
 
+[![04 · 线香花火手部（左黑白，右黑金）](04/hand-detail.png)](04/hand-detail.png)
+
 ## 背面
 
 [![背面](back.png)](back.png)

@@ -19,6 +19,8 @@ Designs 01–04 run left to right. The top row uses white ink for the character 
 | 03 · Floating Lanterns | [PNG](03/black-white/front.png) · [Project](03/black-white/shiki-0704-03-black-white.epro2) · [Gerber](03/black-white/shiki-0704-03-black-white-gerber.zip) | [PNG](03/black-gold/front.png) · [Project](03/black-gold/shiki-0704-03-black-gold.epro2) · [Gerber](03/black-gold/shiki-0704-03-black-gold-gerber.zip) | [Original](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg) · [Ink master](03/ink.png) |
 | 04 · Firelight | [PNG](04/black-white/front.png) · [Project](04/black-white/shiki-0704-04-black-white.epro2) · [Gerber](04/black-white/shiki-0704-04-black-white-gerber.zip) | [PNG](04/black-gold/front.png) · [Project](04/black-gold/shiki-0704-04-black-gold.epro2) · [Gerber](04/black-gold/shiki-0704-04-black-gold-gerber.zip) | [Original](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_16_l.jpg) · [Ink master](04/ink.png) |
 
+[![04 · Sparkler grip (white at left, gold at right)](04/hand-detail.png)](04/hand-detail.png)
+
 ## Back
 
 [![Back](back.png)](back.png)

@@ -373,11 +373,12 @@
         1200,
         675
       ],
-      "ink_sha256": "b136a522a2c662f3ea8ea59706f2ca1cf1e0defac2a189195eccf6f403688bb2",
+      "ink_sha256": "376c5c0106f14ed28d566f6d6bf2f0aed2b59ca080704c47eb002edddc65e822",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
-      "vessel": "めおん"
+      "vessel": "めおん",
+      "hand_revision": "Finger contours and sparkler grip traced from the official CG."
     }
   ]
 }
