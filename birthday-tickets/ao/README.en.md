@@ -12,6 +12,8 @@ The character ID at the top right of the front is **02** across all designs and 
 
 Designs 01–05 run left to right. The top row uses white ink for the character and the bottom row uses gold. Open a preview for the full-size board.
 
+The small bead hanging from Ao’s hair ornament uses ENIG in all five designs. The ribbon, tassels, hair and clothing keep their original finishes.
+
 On the gold edition of Bedside, the forearm, sleeve and lock of hair around Ao’s fingers use exposed gold. The bedding and curtains use white silkscreen.
 
 [Download ten Gerber sets](ao-0920-10-gerbers.zip)

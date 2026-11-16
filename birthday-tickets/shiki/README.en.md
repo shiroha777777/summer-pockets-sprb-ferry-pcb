@@ -12,6 +12,8 @@ The character ID at the top right of the front is **05** across all designs and 
 
 Designs 01–04 run left to right. The top row uses white ink for the character and the bottom row uses gold. Open a preview for the full-size board.
 
+On the black-and-white Floating Lanterns board the distant ridgeline uses white silkscreen, while the clouds, rain, lanterns, rocks and reflections use ENIG. Selected clasps and hair ornaments pick up gold across the four black-and-white designs. The sleeve motifs, pouch, neckerchief and ribbons keep their original finishes. On the black-and-gold Summer Leap board, the skirt panel below and to the left of the pouch uses ENIG.
+
 [Download eight Gerber sets](shiki-0704-8-gerbers.zip)
 
 | Design | Black and white | Character in gold | Original |

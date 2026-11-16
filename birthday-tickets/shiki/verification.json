@@ -6,10 +6,10 @@
     "stamp": "07.04",
     "front_copper_edge_mm": 1.18,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.65554,
+    "front_silk_copper_gap_mm": 0.16352,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "0986104f58b36cc79045d3313408acd7446d533f4488afa096f6151dda14816f",
+    "gerber_sha256": "f4c41f031f4c090cc859fbd32f0c254f4303dc6961cae8f4495612f81b75be50",
     "character_id": "05"
   },
   {
@@ -32,10 +32,10 @@
     "stamp": "07.04",
     "front_copper_edge_mm": 1.18,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.65539,
+    "front_silk_copper_gap_mm": 0.1635,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "06527eb348c54f20fe9eba77652ac846f712de85b6792bbfd3021ecef0aeaf24",
+    "gerber_sha256": "de4f74f921e38bf188737908acb8c63436f7c1d8d952c2d90189ddf79b3b1d5d",
     "character_id": "05"
   },
   {
@@ -48,7 +48,7 @@
     "front_silk_copper_gap_mm": 0.15829,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "b947790f25a4b6c8c5a6eb7d75afa9f14fb1d60d793cc3c0f64952d532be66b3",
+    "gerber_sha256": "b79dc6803b1f60ce1abeac9084d1fbbf54231e07bfc084c12b7fa076f4a18f94",
     "character_id": "05"
   },
   {
@@ -56,12 +56,12 @@
     "color": "black-white",
     "serial": "0704",
     "stamp": "07.04",
-    "front_copper_edge_mm": 1.18,
+    "front_copper_edge_mm": 1.13598,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.15837,
+    "front_silk_copper_gap_mm": 0.16344,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "a768b3a17a7903b27b120fa44565e7ae3d689f8d0aeabbc7d5ab67c0c9008e8e",
+    "gerber_sha256": "bd68461ba58ed45015e620f8e6f4ee42c9190f64e973009b6dc8facfdbb37f0e",
     "character_id": "05"
   },
   {
@@ -87,7 +87,7 @@
     "front_silk_copper_gap_mm": 0.15826,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "bf50b984a9532d97bdbf82f9679f8b32ce0fb5cdebf0d106fd1f7c0492f6dd2b",
+    "gerber_sha256": "bb5c2859db871de80fce889285cbc9015c815e49aa9ab561d535b4b518b87c48",
     "character_id": "05"
   },
   {
