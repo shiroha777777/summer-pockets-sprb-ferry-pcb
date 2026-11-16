@@ -25,6 +25,10 @@ Designs 01–04 run left to right. The top row uses white ink for the character 
 
 [![Back](back.png)](back.png)
 
+The loading ramp, open vehicle deck and bridge windows follow the operator’s photograph of *Meon*. The ship’s red stripes are picked out in exposed gold.
+
+[Ferry close-up](meon-detail.png) · [Layered vector artwork](meon.svg) · [Operator’s photograph](https://meon.co.jp/common/img/page/ship-img21.jpg)
+
 ## Fabrication
 
 Extract the character bundle and upload one design’s Gerber ZIP. Use two-layer FR-4, 1.6 mm, 1 oz, black mask, white silkscreen and ENIG. All six artwork layers were checked against the native projects. Fine hair and eye detail still need a physical sample.
