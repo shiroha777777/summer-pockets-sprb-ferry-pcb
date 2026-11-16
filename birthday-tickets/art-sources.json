@@ -251,6 +251,18 @@
       "route": "高松 → 直島・宮浦",
       "vessel": "あさひ",
       "black_white_ink_sha256": "50601e2fc9bb23733c7da37053c21b3053cc7373975b863f5d71947c6e59644f"
+    },
+    {
+      "design": 5,
+      "title": "Game Portrait",
+      "official_original": "https://key.visualarts.gr.jp/summer_rb/common/image/character_image_kamome.png",
+      "source_sha256": "c86ed46cef45c6f03342e3bca145d86ffb2c0d3b527dfcb958bd9f6a84cc7b82",
+      "ink_sha256": "5e939a90df5225c14903cfabf5366956eeb1f0c2e6c52b24fd2402bd9d319faa",
+      "tool": "OpenAI ImageGen",
+      "character_id": "03",
+      "serial": "0404",
+      "route": "高松 → 直島・宮浦",
+      "vessel": "あさひ"
     }
   ],
   "tsumugi": [

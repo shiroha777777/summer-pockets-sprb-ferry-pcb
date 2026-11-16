@@ -2,11 +2,11 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-白羽收录 9 款生日票，空门苍 5 款，久岛鸥、紬和神山识各 4 款，共 26 款、52 套双面工程。各角色页提供黑白与黑金预览、背板和打板文件。
+白羽收录 9 款生日票，空门苍和久岛鸥各 5 款，紬和神山识各 4 款，共 27 款、54 套双面工程。各角色页提供黑白与黑金预览、背板和打板文件。
 
 [![白羽、苍、鸥、紬和识的官方角色立绘 PCB](birthday-tickets/collection.png)](birthday-tickets/collection.png)
 
-白羽、苍、紬和识采用游戏官方立绘，鸥采用电视动画官方立绘。
+上图五张 PCB 均取材于《Summer Pockets REFLECTION BLUE》的官方游戏立绘。
 
 正面右上角的两位数按角色固定，同一角色的所有款式与配色共用。
 

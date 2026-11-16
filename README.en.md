@@ -2,11 +2,11 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-Shiroha has nine birthday ticket designs, Ao has five, and Kamome, Tsumugi and Shiki have four each. The 26 designs come in two finishes, for a total of 52 double-sided projects. Each character page includes front and back previews and fabrication files.
+Shiroha has nine birthday ticket designs, Ao and Kamome have five each, and Tsumugi and Shiki have four each. The 27 designs come in two finishes, for a total of 54 double-sided projects. Each character page includes front and back previews and fabrication files.
 
 [![PCB portraits of Shiroha, Ao, Kamome, Tsumugi and Shiki](birthday-tickets/collection.png)](birthday-tickets/collection.png)
 
-Shiroha, Ao, Tsumugi and Shiki use the official game portraits. Kamome uses her official TV anime portrait.
+All five boards pictured here use the official game portraits from Summer Pockets REFLECTION BLUE.
 
 The two-digit ID at the top right of each board front is shared by every design and finish for that character.
 

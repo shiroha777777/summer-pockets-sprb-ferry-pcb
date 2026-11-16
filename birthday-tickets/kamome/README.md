@@ -8,15 +8,19 @@
 
 正面右上角的角色编号是 **03**，本页所有插画和两种配色都使用这个编号。
 
+**05 · 游戏立绘**　左为黑白版，右为黑金版。
+
+[![游戏立绘](05/preview.png)](05/preview.png)
+
 [![久島 鴎](gallery.png)](gallery.png)
 
-从左到右为 01–04 款，上排黑白，下排人物黑金。点击各款预览可查看大图。
+从左到右为 01–05 款，上排黑白，下排人物黑金。点击各款预览可查看大图。
 
 黑白版用白丝印勾出深发与深色裙装的外缘和受光衣褶。三款场景图以沉金画背景，让伞骨、轨道和树影与人物分开。
 
 01「夏日洋装」黑金版用黑色阻焊表现袖下和裙褶深处的暗部，沉金勾出袖口花边、腰线和提裙处展开的褶面。03、04 的旅行箱用沉金画出箱带、包角和轮子。
 
-[下载八套 Gerber](kamome-0404-8-gerbers.zip)
+[下载十套 Gerber](kamome-0404-10-gerbers.zip)
 
 | 款式 | 黑白 | 人物黑金 | 原画 |
 | --- | --- | --- | --- |
@@ -24,6 +28,7 @@
 | 02 · 黑伞下 | [PNG](02/black-white/front.png) · [工程](02/black-white/kamome-0404-02-black-white.epro2) · [Gerber](02/black-white/kamome-0404-02-black-white-gerber.zip) | [PNG](02/black-gold/front.png) · [工程](02/black-gold/kamome-0404-02-black-gold.epro2) · [Gerber](02/black-gold/kamome-0404-02-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_05_l.jpg) · [黑白 · 线稿](02/ink-black-white.png) / [人物黑金 · 线稿](02/ink.png) |
 | 03 · 海边小径 | [PNG](03/black-white/front.png) · [工程](03/black-white/kamome-0404-03-black-white.epro2) · [Gerber](03/black-white/kamome-0404-03-black-white-gerber.zip) | [PNG](03/black-gold/front.png) · [工程](03/black-gold/kamome-0404-03-black-gold.epro2) · [Gerber](03/black-gold/kamome-0404-03-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_03_l.jpg) · [黑白 · 线稿](03/ink-black-white.png) / [人物黑金 · 线稿](03/ink.png) |
 | 04 · 旅行箱 | [PNG](04/black-white/front.png) · [工程](04/black-white/kamome-0404-04-black-white.epro2) · [Gerber](04/black-white/kamome-0404-04-black-white-gerber.zip) | [PNG](04/black-gold/front.png) · [工程](04/black-gold/kamome-0404-04-black-gold.epro2) · [Gerber](04/black-gold/kamome-0404-04-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_06_l.jpg) · [黑白 · 线稿](04/ink-black-white.png) / [人物黑金 · 线稿](04/ink.png) |
+| [05 · 游戏立绘](05/preview.png) | [PNG](05/black-white/front.png) · [工程](05/black-white/kamome-0404-05-black-white.epro2) · [Gerber](05/black-white/kamome-0404-05-black-white-gerber.zip) | [PNG](05/black-gold/front.png) · [工程](05/black-gold/kamome-0404-05-black-gold.epro2) · [Gerber](05/black-gold/kamome-0404-05-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/character_image_kamome.png) · [共用线稿](05/ink.png) |
 
 ## 背面
 

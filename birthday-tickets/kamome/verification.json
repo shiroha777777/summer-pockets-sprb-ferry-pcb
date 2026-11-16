@@ -102,5 +102,31 @@
     "six_layers_checked": true,
     "gerber_sha256": "9d243d8bf731c9f03b35e8eaa9f5e8233e00eeb765105ca7c9af7924cacd93a7",
     "character_id": "03"
+  },
+  {
+    "number": 5,
+    "color": "black-white",
+    "serial": "0404",
+    "stamp": "04.04",
+    "front_copper_edge_mm": 1.18,
+    "back_copper_edge_mm": 0.761,
+    "front_silk_copper_gap_mm": 0.655,
+    "back_silk_copper_gap_mm": 0.17558,
+    "six_layers_checked": true,
+    "gerber_sha256": "27b8ebc7dba62e792210f7e1c7fa0bcf7f32531d571ff776dd8f6f2fce611866",
+    "character_id": "03"
+  },
+  {
+    "number": 5,
+    "color": "black-gold",
+    "serial": "0404",
+    "stamp": "04.04",
+    "front_copper_edge_mm": 1.18,
+    "back_copper_edge_mm": 0.761,
+    "front_silk_copper_gap_mm": 0.97735,
+    "back_silk_copper_gap_mm": 0.17558,
+    "six_layers_checked": true,
+    "gerber_sha256": "553086e0444cfb232a6c15f7abf12c01d2df819e88baed0d7bf7670d1fdee2b6",
+    "character_id": "03"
   }
 ]
