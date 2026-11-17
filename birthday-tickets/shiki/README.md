@@ -25,6 +25,8 @@
 
 [![黑白版沉金局部。上排为「夏日跃起」两侧花结和线香火星，下排为「线香花火」两侧花结和水面反光。](gold-details.png)](gold-details.png)
 
+[两侧花结放大（上排官方 CG，下排制板图）](02/knot-reference.png) · [Key 官方原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
+
 [![04 · 线香花火手部（左黑白，右黑金）](04/hand-detail.png)](04/hand-detail.png)
 
 ## 背面

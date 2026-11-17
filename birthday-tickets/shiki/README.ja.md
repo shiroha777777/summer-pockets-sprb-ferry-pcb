@@ -25,6 +25,8 @@
 
 [![白黒版の金仕上げ。上段は「夏の跳躍」の左右の花結びと線香花火の火花、下段は「線香花火」の左右の花結びと水面の反射。](gold-details.png)](gold-details.png)
 
+[左右の花結びを同じ倍率で見る（上段は公式CG、下段は製造データ）](02/knot-reference.png) · [Key公式CG](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
+
 [![04 · 線香花火を持つ手（左が白黒、右が黒金）](04/hand-detail.png)](04/hand-detail.png)
 
 ## 裏面

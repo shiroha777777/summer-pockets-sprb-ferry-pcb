@@ -25,6 +25,8 @@ On the black-and-white Floating Lanterns board the distant ridgeline uses white 
 
 [![ENIG details on the black-and-white boards. Top row shows both Summer Leap knots and the sparkler. Bottom row shows both Sparkler knots and the water reflection.](gold-details.png)](gold-details.png)
 
+[Both cord knots at matching scale (official CG above, Gerber artwork below)](02/knot-reference.png) · [Original CG by Key](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
+
 [![04 · Sparkler grip (white at left, gold at right)](04/hand-detail.png)](04/hand-detail.png)
 
 ## Back

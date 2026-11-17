@@ -32,10 +32,10 @@
     "stamp": "07.04",
     "front_copper_edge_mm": 1.18,
     "back_copper_edge_mm": 0.761,
-    "front_silk_copper_gap_mm": 0.1633,
+    "front_silk_copper_gap_mm": 0.16314,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "a0c530f430d96fa1f1e07e449b3b04c71d4a49b53a438ef6be75ab23bc517364",
+    "gerber_sha256": "508f57763d5bb7ccc199f4bf7c52fe2dcb985e442f4a911b496314cd18cdae91",
     "character_id": "05"
   },
   {
