@@ -12,7 +12,7 @@ The character ID at the top right of the front is **05** across all designs and 
 
 Designs 01–04 run left to right. The top row uses white ink for the character and the bottom row uses gold. Open a preview for the full-size board.
 
-On the black-and-white Floating Lanterns board, the hood, clothing and distant ridge are in black and white. The clouds, rain, lanterns, rocks and water reflections use ENIG. The black-and-gold edition uses white silkscreen for the lanterns and their reflections. On the black-and-gold Summer Leap board, the skirt panel below the pouch uses ENIG. The other black-and-white editions retain their selected gold clasps and their original sleeve, pouch, neckerchief and ribbon finishes.
+On the black-and-white Floating Lanterns board, the two cord knots hanging from the hood use exposed ENIG. The hood fabric, tassels, clothing and distant ridge are in black and white. The clouds, rain, lanterns, rocks and water reflections use ENIG. The black-and-gold edition uses white silkscreen for the lanterns and their reflections. On the black-and-gold Summer Leap board, the skirt panel below the pouch uses ENIG. The other black-and-white editions retain their selected gold clasps and their original sleeve, pouch, neckerchief and ribbon finishes.
 
 [Download eight Gerber sets](shiki-0704-8-gerbers.zip)
 
@@ -26,6 +26,10 @@ On the black-and-white Floating Lanterns board, the hood, clothing and distant r
 [![ENIG details on the black-and-white boards. Top row shows both Summer Leap knots and the sparkler. Bottom row shows both Sparkler knots and the water reflection.](gold-details.png)](gold-details.png)
 
 [Both cord knots at matching scale (official CG above, Gerber artwork below)](02/knot-reference.png) · [Original CG by Key](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
+
+[![Summer Leap collar, bow and clasp. From left to right, the official CG and the two Gerber renders in white and gold.](02/collar-detail.png)](02/collar-detail.png)
+
+[Both ENIG hood knots on the black-and-white Floating Lanterns board](03/hood-knots.png)
 
 [![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
 

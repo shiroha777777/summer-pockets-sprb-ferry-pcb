@@ -364,11 +364,12 @@
         1188,
         648
       ],
-      "ink_sha256": "6ef177ab3769a1503841f8998e23a868e10d81debb5b256af89afaf9aa6dfad8",
+      "ink_sha256": "3d58ad86f793894bdba7c8de51d8ac386a96b69a5098f9d437515ab388e548a2",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
-      "vessel": "めおん"
+      "vessel": "めおん",
+      "collar_revision": "Collar scrolls, bow overlaps, bodice binding and clasp engravings follow the official Summer Leap CG. The structural strokes share a nominal 0.113 mm width in both finishes."
     },
     {
       "design": 3,
