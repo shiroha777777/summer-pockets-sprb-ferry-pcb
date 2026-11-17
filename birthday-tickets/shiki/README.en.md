@@ -33,7 +33,7 @@ On the black-and-white Floating Lanterns board, the two cord knots hanging from 
 
 [![Floating Lanterns water detail from the Gerbers, black-and-white on the left and black-and-gold on the right.](03/water-detail.png)](03/water-detail.png)
 
-The reflections under the two foreground lanterns follow separate patches of light in the original CG. Ripples break the light just beneath each float into broad bands, then a few smaller glints. More distant lights leave shorter reflections.
+The paper shades bow slightly. On the nearer lanterns, a narrow rim and a tapered crease suggest where the paper folds into the light. The reflections under the two foreground lanterns follow separate patches of light in the original CG. Ripples break the light just beneath each float into broad bands, then a few smaller glints. More distant lights leave shorter reflections.
 
 [![Water under the right foreground lantern, from left to right: official CG, black-and-white Gerber, black-and-gold Gerber.](03/reflections-detail.png)](03/reflections-detail.png)
 

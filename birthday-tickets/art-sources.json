@@ -382,13 +382,14 @@
         664,
         985
       ],
-      "ink_sha256": "fe8c53dbcebb095929f9a5cafc683bdcfa7e470aba5217760c6bc9c6fbc0816c",
+      "ink_sha256": "3abc20e55b499953ccfff425cf0940367eaffab6e5db6e1f0a424fbac4e71bf6",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
       "vessel": "めおん",
       "water_revision": "Mid-distance lights, paper lantern faces and broken water reflections adapted from the official Floating Lanterns CG for the vertical ticket.",
-      "reflection_revision": "Broken light patches under the foreground lanterns are traced from the left and lower-right water in the official CG. Mid-distance and far reflections are shortened to their depth on the ticket. The two finishes use the same reflection geometry."
+      "reflection_revision": "Broken light patches under the foreground lanterns are traced from the left and lower-right water in the official CG. Mid-distance and far reflections are shortened to their depth on the ticket. The two finishes use the same reflection geometry.",
+      "lantern_shade_revision": "The lanterns use gently bowed folded-paper shades with a narrow lip and partial creases that fade into the bright face. The two finishes share the same geometry."
     },
     {
       "design": 4,
