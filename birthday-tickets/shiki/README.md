@@ -33,7 +33,9 @@
 
 [![「浮灯」水面局部，左为黑白版 Gerber，右为黑金版 Gerber。](03/water-detail.png)](03/water-detail.png)
 
-远处的灯只露出一点光，中景渐渐看得见纸灯的折角和短倒影，近处的大灯在水上投下更宽的反光。
+中景的纸灯有敞开的上口，纸罩下方露出一圈木浮座。较近的几盏用明暗两色表现透过纸面的烛光。
+
+[![「浮灯」纸灯放大。从左到右为官方原画、黑白版 Gerber、黑金版 Gerber。](03/paper-lantern-detail.png)](03/paper-lantern-detail.png)
 
 [![线香花火局部。左为官方原画，中为黑白版，右为黑金版。上排为手和火花棒，下排为衣领和胸前刺绣。](04/hand-detail.png)](04/hand-detail.png)
 

@@ -33,7 +33,9 @@ On the black-and-white Floating Lanterns board, the two cord knots hanging from 
 
 [![Floating Lanterns water detail from the Gerbers, black-and-white on the left and black-and-gold on the right.](03/water-detail.png)](03/water-detail.png)
 
-The distant lanterns appear as points of light. The nearer ones have visible paper folds and short reflections, and the large foreground lanterns cast broader trails across the water.
+The mid-distance lanterns have open paper shades on low wooden floats. In the nearer lanterns, two tones suggest candlelight shining through the paper.
+
+[![Paper lantern detail, from left to right: official CG, black-and-white Gerber, black-and-gold Gerber.](03/paper-lantern-detail.png)](03/paper-lantern-detail.png)
 
 [![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
 
