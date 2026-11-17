@@ -37,6 +37,10 @@
 
 [![右前景灯的水面倒影，从左到右为官方 CG、黑白版 Gerber、黑金版 Gerber。](03/reflections-detail.png)](03/reflections-detail.png)
 
+[![雨中的帽面、衣料和头发细节，从左到右为官方 CG、黑白版 Gerber 和黑金版 Gerber。](03/rain-detail.png)](03/rain-detail.png)
+
+帽面和袖口加了细小的水珠，水痕沿着腿的姿势滑落。腰部与袖口的阴影顺着原画的湿衣褶皱，深色发束内补了断续反光。
+
 [![线香花火局部。左为官方原画，中为黑白版，右为黑金版。上排为手和火花棒，下排为衣领和胸前刺绣。](04/hand-detail.png)](04/hand-detail.png)
 
 从左到右依次为官方 CG、黑白版和黑金版。原画局部已旋转至票面角度，两个 PCB 局部均由 Gerber 渲染。

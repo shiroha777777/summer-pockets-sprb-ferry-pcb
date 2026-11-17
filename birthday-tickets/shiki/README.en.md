@@ -37,6 +37,10 @@ The paper shades bow slightly. On the nearer lanterns, a narrow rim and a tapere
 
 [![Water under the right foreground lantern, from left to right: official CG, black-and-white Gerber, black-and-gold Gerber.](03/reflections-detail.png)](03/reflections-detail.png)
 
+[![Rain details on the hood, clothing and hair, from left to right: official CG, black-and-white Gerber, black-and-gold Gerber.](03/rain-detail.png)](03/rain-detail.png)
+
+Small beads sit on the hood and sleeves, while water streaks follow the bent legs. The shaded folds at the waist and cuffs follow the wet fabric in the original CG, and short highlights catch the dark hair.
+
 [![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
 
 The original is rotated to the angle used on the ticket. The middle and right columns are rendered from their respective Gerber files.
