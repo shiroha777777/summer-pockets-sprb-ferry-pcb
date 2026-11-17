@@ -31,6 +31,10 @@ On the black-and-white Floating Lanterns board, the two cord knots hanging from 
 
 [Both ENIG hood knots on the black-and-white Floating Lanterns board](03/hood-knots.png)
 
+[![Floating Lanterns water detail from the Gerbers, black-and-white on the left and black-and-gold on the right.](03/water-detail.png)](03/water-detail.png)
+
+The distant lanterns appear as points of light. The nearer ones have visible paper folds and short reflections, and the large foreground lanterns cast broader trails across the water.
+
 [![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
 
 The original is rotated to the angle used on the ticket. The middle and right columns are rendered from their respective Gerber files.

@@ -61,7 +61,7 @@
     "front_silk_copper_gap_mm": 0.16344,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "5d9aa7f46dea6cc2dcdaabb74916c8c16728f8bd79dee36be3487cb6002f7042",
+    "gerber_sha256": "0a6d0ac2d0bfba3eaa8191166c3bc4449b26439ab3269da685cd71ec8696b34a",
     "character_id": "05"
   },
   {
@@ -74,7 +74,7 @@
     "front_silk_copper_gap_mm": 0.15813,
     "back_silk_copper_gap_mm": 0.15914,
     "six_layers_checked": true,
-    "gerber_sha256": "753ebc476c9392a17880d3b5bfd9ffb653310160b77a3e70d485b1c98fc58a0e",
+    "gerber_sha256": "c3d1de0bd02e9e932918f89ab2fc73191bc3f6690530bea457c9eb59db07eb51",
     "character_id": "05"
   },
   {

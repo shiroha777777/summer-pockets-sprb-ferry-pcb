@@ -382,11 +382,12 @@
         664,
         985
       ],
-      "ink_sha256": "0762fbde1e7e10c486ecd3d6cc7ebbc044d662bd14cf3f3644326ff61b641249",
+      "ink_sha256": "87396d6da980744dacf5d395036c664c3333c240b5b36d02a5b188fe1642fdf2",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
-      "vessel": "めおん"
+      "vessel": "めおん",
+      "water_revision": "Mid-distance lights, paper lantern faces and broken water reflections adapted from the official Floating Lanterns CG for the vertical ticket."
     },
     {
       "design": 4,
