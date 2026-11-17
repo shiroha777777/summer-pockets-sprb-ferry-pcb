@@ -33,7 +33,9 @@ On the black-and-white Floating Lanterns board, the two cord knots hanging from 
 
 [![Floating Lanterns water detail from the Gerbers, black-and-white on the left and black-and-gold on the right.](03/water-detail.png)](03/water-detail.png)
 
-The distant lanterns appear as points of light. The nearer ones have visible paper folds and short reflections, and the large foreground lanterns cast broader trails across the water.
+The reflections under the two foreground lanterns follow separate patches of light in the original CG. Ripples break the light just beneath each float into broad bands, then a few smaller glints. More distant lights leave shorter reflections.
+
+[![Water under the right foreground lantern, from left to right: official CG, black-and-white Gerber, black-and-gold Gerber.](03/reflections-detail.png)](03/reflections-detail.png)
 
 [![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
 

@@ -33,7 +33,9 @@
 
 [![「浮灯」水面局部，左为黑白版 Gerber，右为黑金版 Gerber。](03/water-detail.png)](03/water-detail.png)
 
-远处的灯只露出一点光，中景渐渐看得见纸灯的折角和短倒影，近处的大灯在水上投下更宽的反光。
+前景两盏灯的倒影按原画分别勾绘。靠近灯底的亮面被波纹横向分开，往外渐渐收成几笔碎光。中远景的小灯只在水上留下短短的反光。
+
+[![右前景灯的水面倒影，从左到右为官方 CG、黑白版 Gerber、黑金版 Gerber。](03/reflections-detail.png)](03/reflections-detail.png)
 
 [![线香花火局部。左为官方原画，中为黑白版，右为黑金版。上排为手和火花棒，下排为衣领和胸前刺绣。](04/hand-detail.png)](04/hand-detail.png)
 
