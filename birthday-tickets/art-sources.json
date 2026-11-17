@@ -398,12 +398,12 @@
         1200,
         675
       ],
-      "ink_sha256": "376c5c0106f14ed28d566f6d6bf2f0aed2b59ca080704c47eb002edddc65e822",
+      "ink_sha256": "52567c1782c2530bc278c38ced67e2cd371b09e6ebaf67470a3323c850683c04",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
       "vessel": "めおん",
-      "hand_revision": "Finger contours and sparkler grip traced from the official CG."
+      "hand_revision": "In the existing portrait composition, the near and far hands, fingernails, collar and embroidery follow the official Firelight CG. The embroidery uses its original pigment silhouette."
     }
   ]
 }

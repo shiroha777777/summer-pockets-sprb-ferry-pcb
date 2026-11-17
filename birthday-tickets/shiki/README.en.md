@@ -12,7 +12,7 @@ The character ID at the top right of the front is **05** across all designs and 
 
 Designs 01–04 run left to right. The top row uses white ink for the character and the bottom row uses gold. Open a preview for the full-size board.
 
-On the black-and-white Floating Lanterns board the distant ridgeline uses white silkscreen, while the clouds, rain, lanterns, rocks and reflections use ENIG. Selected clasps and hair ornaments pick up gold across the four black-and-white designs. The sleeve motifs, pouch, neckerchief and ribbons keep their original finishes. On the black-and-gold Summer Leap board, the skirt panel below and to the left of the pouch uses ENIG.
+On the black-and-white Floating Lanterns board, the hood, clothing and distant ridge are in black and white. The clouds, rain, lanterns, rocks and water reflections use ENIG. The black-and-gold edition uses white silkscreen for the lanterns and their reflections. On the black-and-gold Summer Leap board, the skirt panel below the pouch uses ENIG. The other black-and-white editions retain their selected gold clasps and their original sleeve, pouch, neckerchief and ribbon finishes.
 
 [Download eight Gerber sets](shiki-0704-8-gerbers.zip)
 
@@ -27,7 +27,9 @@ On the black-and-white Floating Lanterns board the distant ridgeline uses white 
 
 [Both cord knots at matching scale (official CG above, Gerber artwork below)](02/knot-reference.png) · [Original CG by Key](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
 
-[![04 · Sparkler grip (white at left, gold at right)](04/hand-detail.png)](04/hand-detail.png)
+[![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
+
+The original is rotated to the angle used on the ticket. The middle and right columns are rendered from their respective Gerber files.
 
 ## Back
 
