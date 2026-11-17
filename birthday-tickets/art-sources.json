@@ -382,7 +382,7 @@
         664,
         985
       ],
-      "ink_sha256": "201feb283b989415cd82988e0b9cd1a84c4cbb00a8ac4136c9594cd4d92a29a4",
+      "ink_sha256": "786a743ef199dbb2ea6bc6e68413965de257a49910e468f574a65c814652ce81",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
@@ -390,7 +390,16 @@
       "water_revision": "Mid-distance lights, paper lantern faces and broken water reflections adapted from the official Floating Lanterns CG for the vertical ticket.",
       "reflection_revision": "Broken light patches under the foreground lanterns are traced from the left and lower-right water in the official CG. Mid-distance and far reflections are shortened to their depth on the ticket. The two finishes use the same reflection geometry.",
       "lantern_shade_revision": "The lanterns use gently bowed folded-paper shades with a narrow lip and partial creases that fade into the bright face. The two finishes share the same geometry.",
-      "rain_revision": "The official CG guides the damp vertical cloth folds, wet hair highlights, small beads on the hood and sleeves, and the water streaks along the bent legs. Both finishes share the figure detail geometry."
+      "rain_revision": "The official CG guides the damp vertical cloth folds, wet hair highlights, small beads on the hood and sleeves, and the water streaks along the bent legs. Both finishes share the figure detail geometry.",
+      "sleeve_clips_revision": {
+        "method": "Built-in OpenAI ImageGen, referencing the official CG and its sleeve detail. The selected generated sleeve and four hair clips were registered to the existing ink artwork and converted to material regions. Narrow transition zones join the generated contours to the existing artwork. Both finishes use identical repair geometry.",
+        "source_sha256": "dd0df5059d1615f8df23a1a5377ba7bd47af820f24897f2247a45eeea777af5d",
+        "generated_image": "shiki/03/sleeve-clips-imagegen.png",
+        "generated_sha256": "5524aad1ae32a7844eaf9cc840636ee7b1fd08f3e8b0de6a2ca4e931d84a367a",
+        "final_prompt": "shiki/03/sleeve-clips-prompt.txt",
+        "gerber_detail": "shiki/03/sleeve-clips-detail.png",
+        "checks": "Six native/Gerber layers match. All unchanged Gerber members are byte-identical. The face, background and back are outside the edited regions."
+      }
     },
     {
       "design": 4,

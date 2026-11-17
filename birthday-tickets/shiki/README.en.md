@@ -41,6 +41,12 @@ The paper shades bow slightly. On the nearer lanterns, a narrow rim and a tapere
 
 Small beads sit on the hood and sleeves, while water streaks follow the bent legs. The shaded folds at the waist and cuffs follow the wet fabric in the original CG, and short highlights catch the dark hair.
 
+[![Floating Lanterns sleeve and hair clips. Official CG, white Gerber, gold Gerber from left to right; sleeve above, hair clips below.](03/sleeve-clips-detail.png)](03/sleeve-clips-detail.png)
+
+ImageGen used the official CG and a sleeve close-up to repair the diagonal opening, connecting tapes and hanging sleeve, and restore the black hair clips on both sides. Only the corresponding areas were registered into the artwork; both finishes share the same repaired contours. The previews above come from the actual Gerbers.
+
+[ImageGen study](03/sleeve-clips-imagegen.png) · [Final prompt](03/sleeve-clips-prompt.txt)
+
 [![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
 
 The original is rotated to the angle used on the ticket. The middle and right columns are rendered from their respective Gerber files.

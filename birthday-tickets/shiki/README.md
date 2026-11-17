@@ -41,6 +41,12 @@
 
 帽面和袖口加了细小的水珠，水痕沿着腿的姿势滑落。腰部与袖口的阴影顺着原画的湿衣褶皱，深色发束内补了断续反光。
 
+[![浮灯袖口与发饰。从左到右为官方 CG、黑白 Gerber、黑金 Gerber；上排袖口，下排发饰。](03/sleeve-clips-detail.png)](03/sleeve-clips-detail.png)
+
+以官方 CG 和袖口局部为参考，用 ImageGen 修正斜向开口、连接带与长袖的衔接，并补回两侧黑色发饰。生成结果只接入对应区域，黑白和黑金共用修正轮廓。上图来自实际 Gerber。
+
+[ImageGen 生成稿](03/sleeve-clips-imagegen.png) · [最终提示词](03/sleeve-clips-prompt.txt)
+
 [![线香花火局部。左为官方原画，中为黑白版，右为黑金版。上排为手和火花棒，下排为衣领和胸前刺绣。](04/hand-detail.png)](04/hand-detail.png)
 
 从左到右依次为官方 CG、黑白版和黑金版。原画局部已旋转至票面角度，两个 PCB 局部均由 Gerber 渲染。
