@@ -399,12 +399,20 @@
         1200,
         675
       ],
-      "ink_sha256": "5ee86547b5870cd419e33afbca4ceea03ee53b69d672964f4955ef357aa5195a",
+      "ink_sha256": "cc6ecc6df6682f63c073c30e43af71da710fa049acd9c1b24354e25a9cf6d59b",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
       "vessel": "めおん",
-      "hand_revision": "The finger overlaps and grip follow the official Firelight CG. One short nail edge marks the fingertip against the sparkler. The collar and its embroidery follow the same CG."
+      "hand_revision": "Both material plates use the rounded, foreshortened fingertips and rear-hand contact from an ImageGen ink study of the official CG. The stick enters the near grip, and the rear fingertips share a contour with the knee.",
+      "grip_study": {
+        "file": "shiki/04/grip-study.png",
+        "sha256": "aea5cd87b7f1c26c0c7d55118926a34b7bb82cf91b5dc5590ec9e798079ca102",
+        "tool": "OpenAI ImageGen (built-in)",
+        "input": "Registered hand and knee crop of gallery_cg_sprb_16_l.jpg",
+        "input_png_sha256": "f9e45affec31f0bd4f28b14e6ec402632ce9e035774a9215b0f63139900fd0f5",
+        "prompt": "Precise-object-edit, production anime line drawing for a printed circuit board. Image 1 is the official original CG crop, rotated to the board angle; it is the EDIT TARGET and the sole anatomical and compositional reference. Work directly over its exact coordinates. Return the SAME crop and orientation in crisp black ink and pure white flat shapes. Two delicate hands and the knees in the same sparking-stick gesture. Carefully draw the nearer hand coming from screen left with a graceful wrist, naturally rounded pads on bent fingers, strong foreshortening and soft overlapping tips curled against the palm. The long white tongues in the original are brilliant reflected light over the fingers and nails: do not trace these streaks or draw clawlike nail outlines. Allow at most one short nail-edge tick at the finger actually pinching the thin stick. Preserve the fingertip contact point and the exact diagonal of the stick, which disappears into the grip. Directly behind it, trace the small partially visible hand and its finger pads resting behind the knees, sharing the curved knee boundary, with only a slim black contact line and no floating black wedge. No extra finger or extended digits. Respect the original silhouette placement of knuckles, wrist, knees, shirt and hand positions. Eyes and face are outside this cropped image. Make fine, confident, even, smooth contour lines, natural soft curved anatomical outlines with tapered ends, similar to clean professional Japanese animation key artwork. Pure white interiors for skin and cloth and knee; black negative space only in background. Omit shadows, gradients, hatching, fill lighting, highlights, jewelry additions, panel borders and all text. Canvas aspect ratio as image 1, single full-bleed image with no layout change, no side-by-side examples."
+      }
     }
   ]
 }

@@ -35,6 +35,8 @@ On the black-and-white Floating Lanterns board, the two cord knots hanging from 
 
 The original is rotated to the angle used on the ticket. The middle and right columns are rendered from their respective Gerber files.
 
+The hand study uses a crop of the official CG. The near fingertips curl into the palm, and the rear fingers meet the upper edge of the knee. [View the ImageGen ink study](04/grip-study.png)
+
 ## Back
 
 [![Back](back.png)](back.png)
