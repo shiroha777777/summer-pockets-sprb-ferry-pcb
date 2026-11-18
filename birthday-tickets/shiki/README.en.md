@@ -23,43 +23,13 @@ On the black-and-white Floating Lanterns board, the two cord knots hanging from 
 | 03 · Floating Lanterns | [PNG](03/black-white/front.png) · [Project](03/black-white/shiki-0704-03-black-white.epro2) · [Gerber](03/black-white/shiki-0704-03-black-white-gerber.zip) | [PNG](03/black-gold/front.png) · [Project](03/black-gold/shiki-0704-03-black-gold.epro2) · [Gerber](03/black-gold/shiki-0704-03-black-gold-gerber.zip) | [Original](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg) · [Ink master](03/ink.png) |
 | 04 · Firelight | [PNG](04/black-white/front.png) · [Project](04/black-white/shiki-0704-04-black-white.epro2) · [Gerber](04/black-white/shiki-0704-04-black-white-gerber.zip) | [PNG](04/black-gold/front.png) · [Project](04/black-gold/shiki-0704-04-black-gold.epro2) · [Gerber](04/black-gold/shiki-0704-04-black-gold-gerber.zip) | [Original](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_16_l.jpg) · [Ink master](04/ink.png) |
 
-[![ENIG details on the black-and-white boards. Top row shows both Summer Leap knots and the sparkler. Bottom row shows both Sparkler knots and the water reflection.](gold-details.png)](gold-details.png)
-
-[Both cord knots at matching scale (official CG above, Gerber artwork below)](02/knot-reference.png) · [Original CG by Key](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
-
-[![Summer Leap collar, bow and clasp. From left to right, the official CG and the two Gerber renders in white and gold.](02/collar-detail.png)](02/collar-detail.png)
-
-[Both ENIG hood knots on the black-and-white Floating Lanterns board](03/hood-knots.png)
-
-[![Floating Lanterns water detail from the Gerbers, black-and-white on the left and black-and-gold on the right.](03/water-detail.png)](03/water-detail.png)
-
-The paper shades bow slightly. On the nearer lanterns, a narrow rim and a tapered crease suggest where the paper folds into the light. The reflections under the two foreground lanterns follow separate patches of light in the original CG. Ripples break the light just beneath each float into broad bands, then a few smaller glints. More distant lights leave shorter reflections.
-
-[![Water under the right foreground lantern, from left to right: official CG, black-and-white Gerber, black-and-gold Gerber.](03/reflections-detail.png)](03/reflections-detail.png)
-
-[![Rain details on the hood, clothing and hair, from left to right: official CG, black-and-white Gerber, black-and-gold Gerber.](03/rain-detail.png)](03/rain-detail.png)
-
-Small beads sit on the hood and sleeves, while water streaks follow the bent legs. The shaded folds at the waist and cuffs follow the wet fabric in the original CG, and short highlights catch the dark hair.
-
-[![Floating Lanterns sleeve and hair clips. Official CG, white Gerber, gold Gerber from left to right; sleeve above, hair clips below.](03/sleeve-clips-detail.png)](03/sleeve-clips-detail.png)
-
-ImageGen used the official CG and a sleeve close-up to repair the diagonal opening, connecting tapes and hanging sleeve, and restore the black hair clips on both sides. Only the corresponding areas were registered into the artwork; both finishes share the same repaired contours. The previews above come from the actual Gerbers.
-
-[ImageGen study](03/sleeve-clips-imagegen.png) · [Final prompt](03/sleeve-clips-prompt.txt)
-
-[![Firelight details. The columns show the official CG, black-and-white Gerber and black-and-gold Gerber. The hands are shown above the collar and embroidery.](04/hand-detail.png)](04/hand-detail.png)
-
-The original is rotated to the angle used on the ticket. The middle and right columns are rendered from their respective Gerber files.
-
-The hand study uses a crop of the official CG. The near fingertips curl into the palm, and the rear fingers meet the upper edge of the knee. [View the ImageGen ink study](04/grip-study.png)
-
 ## Back
 
 [![Back](back.png)](back.png)
 
 The loading ramp, open vehicle deck and bridge windows follow the operator’s photograph of *Meon*. The ship’s red stripes are picked out in exposed gold.
 
-[Ferry close-up](meon-detail.png) · [Layered vector artwork](meon.svg) · [Operator’s photograph](https://meon.co.jp/common/img/page/ship-img21.jpg)
+[Layered vector artwork](meon.svg) · [Operator’s photograph](https://meon.co.jp/common/img/page/ship-img21.jpg)
 
 ## Fabrication
 

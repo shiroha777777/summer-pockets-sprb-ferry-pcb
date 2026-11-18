@@ -23,43 +23,13 @@
 | 03 · 浮灯 | [PNG](03/black-white/front.png) · [工程](03/black-white/shiki-0704-03-black-white.epro2) · [Gerber](03/black-white/shiki-0704-03-black-white-gerber.zip) | [PNG](03/black-gold/front.png) · [工程](03/black-gold/shiki-0704-03-black-gold.epro2) · [Gerber](03/black-gold/shiki-0704-03-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg) · [线稿](03/ink.png) |
 | 04 · 线香花火 | [PNG](04/black-white/front.png) · [工程](04/black-white/shiki-0704-04-black-white.epro2) · [Gerber](04/black-white/shiki-0704-04-black-white-gerber.zip) | [PNG](04/black-gold/front.png) · [工程](04/black-gold/shiki-0704-04-black-gold.epro2) · [Gerber](04/black-gold/shiki-0704-04-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_16_l.jpg) · [线稿](04/ink.png) |
 
-[![黑白版沉金局部。上排为「夏日跃起」两侧花结和线香火星，下排为「线香花火」两侧花结和水面反光。](gold-details.png)](gold-details.png)
-
-[两侧花结放大（上排官方 CG，下排制板图）](02/knot-reference.png) · [Key 官方原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
-
-[![夏日跃起的衣领、蝴蝶结与胸针，从左到右为官方 CG、黑白版 Gerber 和黑金版 Gerber。](02/collar-detail.png)](02/collar-detail.png)
-
-[浮灯黑白版的左右沉金花结](03/hood-knots.png)
-
-[![「浮灯」水面局部，左为黑白版 Gerber，右为黑金版 Gerber。](03/water-detail.png)](03/water-detail.png)
-
-灯罩采用柔和的折纸轮廓。近处能看见微弯的纸口，侧面的折痕在亮处逐渐收细。前景两盏灯的倒影按原画分别勾绘。靠近灯底的亮面被波纹横向分开，往外渐渐收成几笔碎光。中远景的小灯只在水上留下短短的反光。
-
-[![右前景灯的水面倒影，从左到右为官方 CG、黑白版 Gerber、黑金版 Gerber。](03/reflections-detail.png)](03/reflections-detail.png)
-
-[![雨中的帽面、衣料和头发细节，从左到右为官方 CG、黑白版 Gerber 和黑金版 Gerber。](03/rain-detail.png)](03/rain-detail.png)
-
-帽面和袖口加了细小的水珠，水痕沿着腿的姿势滑落。腰部与袖口的阴影顺着原画的湿衣褶皱，深色发束内补了断续反光。
-
-[![浮灯袖口与发饰。从左到右为官方 CG、黑白 Gerber、黑金 Gerber；上排袖口，下排发饰。](03/sleeve-clips-detail.png)](03/sleeve-clips-detail.png)
-
-以官方 CG 和袖口局部为参考，用 ImageGen 修正斜向开口、连接带与长袖的衔接，并补回两侧黑色发饰。生成结果只接入对应区域，黑白和黑金共用修正轮廓。上图来自实际 Gerber。
-
-[ImageGen 生成稿](03/sleeve-clips-imagegen.png) · [最终提示词](03/sleeve-clips-prompt.txt)
-
-[![线香花火局部。左为官方原画，中为黑白版，右为黑金版。上排为手和火花棒，下排为衣领和胸前刺绣。](04/hand-detail.png)](04/hand-detail.png)
-
-从左到右依次为官方 CG、黑白版和黑金版。原画局部已旋转至票面角度，两个 PCB 局部均由 Gerber 渲染。
-
-这次用官方 CG 的手部裁图生成线稿。前手指尖向掌心弯曲，后手的指腹沿膝盖上缘收住。[查看 ImageGen 手部线稿](04/grip-study.png)
-
 ## 背面
 
 [![背面](back.png)](back.png)
 
 船艏的车辆跳板、开放甲板和驾驶台舷窗依照「めおん」的实船照片绘制。实船的红色条纹在板上用沉金表现。
 
-[船图放大](meon-detail.png) · [分层矢量图](meon.svg) · [雌雄島海運实船照片](https://meon.co.jp/common/img/page/ship-img21.jpg)
+[分层矢量图](meon.svg) · [雌雄島海運实船照片](https://meon.co.jp/common/img/page/ship-img21.jpg)
 
 ## 制板
 

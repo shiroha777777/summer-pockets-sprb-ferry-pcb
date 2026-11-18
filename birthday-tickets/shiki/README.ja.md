@@ -23,43 +23,13 @@
 | 03 · 灯籠 | [PNG](03/black-white/front.png) · [プロジェクト](03/black-white/shiki-0704-03-black-white.epro2) · [Gerber](03/black-white/shiki-0704-03-black-white-gerber.zip) | [PNG](03/black-gold/front.png) · [プロジェクト](03/black-gold/shiki-0704-03-black-gold.epro2) · [Gerber](03/black-gold/shiki-0704-03-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg) · [線画](03/ink.png) |
 | 04 · 線香花火 | [PNG](04/black-white/front.png) · [プロジェクト](04/black-white/shiki-0704-04-black-white.epro2) · [Gerber](04/black-white/shiki-0704-04-black-white-gerber.zip) | [PNG](04/black-gold/front.png) · [プロジェクト](04/black-gold/shiki-0704-04-black-gold.epro2) · [Gerber](04/black-gold/shiki-0704-04-black-gold-gerber.zip) | [原画](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_16_l.jpg) · [線画](04/ink.png) |
 
-[![白黒版の金仕上げ。上段は「夏の跳躍」の左右の花結びと線香花火の火花、下段は「線香花火」の左右の花結びと水面の反射。](gold-details.png)](gold-details.png)
-
-[左右の花結びを同じ倍率で見る（上段は公式CG、下段は製造データ）](02/knot-reference.png) · [Key公式CG](https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_sprb_15_l.jpg)
-
-[![「夏の跳躍」の襟、リボン、胸の留め具。左から公式CG、白黒版と黒金版のGerber画像。](02/collar-detail.png)](02/collar-detail.png)
-
-[「浮灯」白黒版の左右の金仕上げの花結び](03/hood-knots.png)
-
-[![「浮灯」の水面。左が白黒版、右が黒金版のGerber画像。](03/water-detail.png)](03/water-detail.png)
-
-灯籠の紙の側面は少したわんでいます。手前の灯籠では、上端を緩やかな曲線にし、折り目の線を明るい面に向かって細くしました。手前の二つの灯籠は、原画の水面を見ながら、それぞれの映り込みを描きました。台のすぐ下では明かりがさざ波で横に分かれ、離れるにつれて小さな光だけが残ります。中景と遠景の灯りは短く水面に映ります。
-
-[![右手前の灯籠の映り込み。左から公式CG、白黒版、黒金版のGerber画像。](03/reflections-detail.png)](03/reflections-detail.png)
-
-[![雨に濡れたフード、衣装、髪の細部。左から公式CG、白黒版、黒金版のGerber画像。](03/rain-detail.png)](03/rain-detail.png)
-
-フードと袖に小さな水滴を加え、脚の姿勢に沿って流れる水の跡を描きました。腰と袖口の陰影は原画の濡れた布のしわに沿わせ、暗い髪の束に短い反射光を加えています。
-
-[![「浮灯」の袖と髪飾り。左から公式CG、白黒版Gerber、黒金版Gerber。上段は袖、下段は髪飾り。](03/sleeve-clips-detail.png)](03/sleeve-clips-detail.png)
-
-公式CGと袖の拡大画像を参照し、ImageGenで斜めの開口部、つなぎ紐、垂れる袖のつながりを修正し、左右の黒い髪飾りを補いました。該当部分だけを元の図柄へ合わせ、両配色で同じ輪郭を使っています。上の画像は実際のGerberから描画しています。
-
-[ImageGen生成画像](03/sleeve-clips-imagegen.png) · [最終プロンプト](03/sleeve-clips-prompt.txt)
-
-[![線香花火の拡大図。左から公式CG、白黒版、黒金版。上段は手と線香花火、下段は襟と胸の刺繍。](04/hand-detail.png)](04/hand-detail.png)
-
-左の原画はチケットに合わせて角度を調整しています。中央と右は各版のGerberデータから描画しました。
-
-公式CGの手元を切り出して線画を作りました。手前の指先は手のひらに向かって曲がり、奥の指は膝の上縁に沿っています。[ImageGenで作成した手元の線画](04/grip-study.png)
-
 ## 裏面
 
 [![裏面](back.png)](back.png)
 
 船首のランプ、開放式の車両甲板、操舵室の窓は「めおん」の実船写真をもとに描きました。実船の赤いしま模様を基板では金で表現しています。
 
-[船の拡大図](meon-detail.png) · [レイヤー別のベクター図](meon.svg) · [雌雄島海運の実船写真](https://meon.co.jp/common/img/page/ship-img21.jpg)
+[レイヤー別のベクター図](meon.svg) · [雌雄島海運の実船写真](https://meon.co.jp/common/img/page/ship-img21.jpg)
 
 ## 基板製造
 
