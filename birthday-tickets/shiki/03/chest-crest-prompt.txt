@@ -1,0 +1,18 @@
+Built-in OpenAI ImageGen, official-reference correction.
+
+First pass (source shape):
+Use case: precise-object-edit.
+Return ONLY the third image, with one small embroidery restored in its blank chest inset. This is a reference-faithful repair, not a redesign.
+
+Image 1 is the actual Key official Summer Pockets REFLECTION BLUE main illustration, cropped to Shiki's chest. It is the authoritative source for the embroidery's shape: copy the small intertwined curling gold mark with leafy green sprigs that is visibly stitched onto the white inset, translating all visible embroidered strokes to the dark ink color of image 3. Follow those exact curls and the sprigs' arrangement; do not substitute a fleur-de-lis, flower head, heraldic badge, shield, or newly invented symmetrical logo.
+Image 2 is the actual official Floating Lanterns CG crop. It determines the garment placement and slant in the seated pose, unlike the standing/main illustration in image 1. The embroidery sits a little below the black neckline piping, on the small inset behind the overlapping diagonal collar. Its TOP tilts towards UPPER LEFT and its BASE towards LOWER RIGHT with the cloth. Preserve that relationship, perspective and subtle partial occlusion by the foreground collar.
+Image 3 is the edit target, flat two-color PCB artwork. Preserve every existing pixel/contour, including the thick neckline piping, hair, straps, collar, folds, neck and background, apart from adding this small motif inside the currently blank ivory inset near x=540 y=435 on its 860x920 canvas. The small design should stay inside the inset and be comparable in relative size to image 2. No change to the neckline shape or surrounding artwork. Use only the same near-black and ivory colors as image 3, no gradients, no new gold, no glow, no shading. Keep tiny strokes clean and flowing and avoid thick outer sticker borders. Output the edited target at its existing framing and proportions, no comparison panels or text.
+
+Second pass (placement/orientation):
+Use case: precise-object-edit.
+Image 1 is a black and ivory chest detail. Make ONE correction only: rotate the little embroidered design counterclockwise by about 65 degrees around its own center, and reduce it to 70 percent of its current size. Its current bottom circular knot sits at the LOWER LEFT. In the corrected version that bottom knot must sit at the LOWER RIGHT, with the upper curled strokes towards the UPPER LEFT. This is essential to match the tilted garment in the actual official seated CG, image 2. Preserve the exact curly embroidered mark and little leaves from image 1, just change its orientation and scale. The corrected design should remain below the black neckline piping inside the blank ivory inset, leaving comfortable margins and fitting the perspective of this little cloth panel. Keep the surrounding collar, hair, skin, neckline, outlines, every other pixel, framing and the same two colors unchanged. Do not add another motif or any new detail. No comparison layout.
+
+Official sources:
+https://key.visualarts.gr.jp/summer_rb/common/image/sprb_main_img.jpg
+https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg
+

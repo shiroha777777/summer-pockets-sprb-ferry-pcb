@@ -382,7 +382,7 @@
         664,
         985
       ],
-      "ink_sha256": "786a743ef199dbb2ea6bc6e68413965de257a49910e468f574a65c814652ce81",
+      "ink_sha256": "9068a97cf4be6a109f3891033336041bd0ed3a7f5b1828abeef2b9a5527fba72",
       "tool": "OpenAI ImageGen",
       "serial": "0704",
       "route": "高松 → 女木島",
@@ -399,6 +399,39 @@
         "final_prompt": "shiki/03/sleeve-clips-prompt.txt",
         "gerber_detail": "shiki/03/sleeve-clips-detail.png",
         "checks": "Six native/Gerber layers match. All unchanged Gerber members are byte-identical. The face, background and back are outside the edited regions."
+      },
+      "chest_crest_revision": {
+        "method": "Built-in OpenAI ImageGen. The official Key main illustration supplies the visible curled embroidery and leaf arrangement; the official Floating Lanterns CG supplies the seated garment placement. A second ImageGen pass corrects orientation and scale. Only the small dark embroidery is transferred, clipped by the existing foreground fold. Both finishes use identical black negative-space geometry. Existing neckline, straps, sleeves, hair clips, face and background contours are retained. This is a reference-guided interpretation of the small published embroidery, not an extracted original logo.",
+        "source_sha256": "dd0df5059d1615f8df23a1a5377ba7bd47af820f24897f2247a45eeea777af5d",
+        "official_references": [
+          {
+            "url": "https://key.visualarts.gr.jp/summer_rb/common/image/sprb_main_img.jpg",
+            "sha256": "d2c7d4bdf6752e35be3b59a27bdb4ddbc417a2b75dde9a254a4d1f9fa3f34667",
+            "crop_xyxy": [
+              662,
+              370,
+              819,
+              547
+            ],
+            "role": "Embroidery shape on official character illustration"
+          },
+          {
+            "url": "https://key.visualarts.gr.jp/summer_rb/common/image/gallery_cg_07_l.jpg",
+            "sha256": "dd0df5059d1615f8df23a1a5377ba7bd47af820f24897f2247a45eeea777af5d",
+            "crop_xyxy": [
+              349,
+              482,
+              446,
+              574
+            ],
+            "role": "Floating Lanterns pose, garment direction and overlap"
+          }
+        ],
+        "intermediate_study": "shiki/03/chest-crest-source-study.png",
+        "generated_image": "shiki/03/chest-crest-imagegen.png",
+        "generated_sha256": "1106266ab73101128dad47caa2b5e1229df4217fe835940c9b1340cc62da0a5a",
+        "final_prompt": "shiki/03/chest-crest-prompt.txt",
+        "checks": "Six native/Gerber layers match. Unedited Gerber members are byte-identical. Only the miniature chest motif is added in the figure layer."
       }
     },
     {
